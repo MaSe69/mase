@@ -1,0 +1,24 @@
+<form id="login_form">
+    <div class="login_container">
+        <div class="login_logo">
+            <img src="{{ site.baseUrl }}images/img_layout/k8sfavicon.png" alt="Logo" style="height:50px">
+        </div>
+
+        <div class="login_form_container">
+
+            <div class="form_element">
+                <input class="input_field" type="email" id="email" name="email" placeholder="Your Email"
+                    style="width:200px" onfocus="this.value=''">
+            </div>
+            <div class="form_element">
+                <input class="input_field" type="password" id="password" name="password" placeholder="Password"
+                    style="width:80px" onfocus="this.value=''" onfocus="passwordnotok.value=''">
+            </div>
+            <div class="form_element">
+                <button class="button_field" onclick="login()">Login</button>
+            </div>
+        </div>
+    </div>
+    <div class="passwordok" id="passwordok"></div>
+    <div class="passwordnotok" id="passwordnotok"></div>
+</form>

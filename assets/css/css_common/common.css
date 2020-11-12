@@ -1,0 +1,79 @@
+:root {
+  --margin_xs: 8px!important;
+  --margin_s: 16px!important;
+  --margin_m: 32px!important;
+  --margin_l: 64px!important;
+  --margin_l_neg: -60px!important;
+}
+
+* {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font: 14px;
+}
+
+body {
+  font-size: 16px;
+  line-height: 28px;
+  color: black;
+  text-align: justify;
+}
+
+h1 {
+  font-size: 74px;
+  font-weight: 800;
+  letter-spacing: 3px;
+  padding: 100px 100px  100px  100px;
+  text-decoration: underline solid;
+  color: black;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-decoration: underline dotted;
+  color: black;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+img {
+  /* Decisive to keep the picture in the flexbox! */
+  max-width: 100%;
+}
+
+strong {
+  color: var(--blue90);
+  font-weight: 900;
+}
+
+ul {
+  color: black;
+  padding-left: 64px;
+}
+
+li {
+  color: black;
+  /* list-style-type: circle;
+  list-style-type: lower-roman;
+  list-style-type: lower-latin;
+  list-style-type: symbols("-");
+  list-style-type: square;
+  list-style-type: decimal; */
+  list-style-type: disc;
+}
+
+a {
+  color: red;
+}
