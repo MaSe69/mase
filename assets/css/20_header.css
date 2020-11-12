@@ -1,17 +1,15 @@
 .header_container {
   display: flex;
   justify-content: space-between;
-  font-size: 12px;
-  font-weight: 100;
-  color: white;
+  justify-content: left;
 }
 
 .header_left {
-  flex-basis: 0 0 1000px;
-  /* Parent: login_container */
-  flex: 1;
-  /* Parent: login_container */
+  /* flex-basis: 0 0 9000px;
+  flex: 1; */
   text-align: left;
+  /* text-align: right; */
+  /* text-align: justify; */
 }
 
 .header_right {
@@ -21,16 +19,16 @@
   text-align: right;
 }
 
-a.H
-
-/* 
-a.nav_header, a.nav_header:visited {
-  color: white;
-  font-size: 12px;
-  font-weight: 100;
+a.header, a.header:visited  {
+  text-decoration: none;
+  color: grey;
+  font-size: 18px;
 }
 
-a.nav_header:hover {
-  background-color: white;
-  color: var(--green90);
-} */
+a.header:hover, a.header:active {
+  color: var(--blue90);
+  color: grey;
+  text-decoration: none;
+  text-decoration: underline;
+  font-size: 18px;
+}

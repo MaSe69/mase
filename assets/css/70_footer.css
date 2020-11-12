@@ -13,7 +13,7 @@
   }
 
   h3.footer {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     color: whitesmoke;
 
@@ -26,13 +26,15 @@
     color: whitesmoke;
   }
 
-  a.footer {
-    text-align: left;
-    font-size: 12px;
-    font-weight: 400;
-    color: white;
-  }
-  
-  a.footer:hover {
-    text-decoration: underline;
-  }    
+a.footer, a.footer:visited  {
+  color: whitesmoke;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+a.footer:hover, a.footer:active {
+  color: whitesmoke;
+  /* color: var(--green10); */
+  text-decoration: underline;
+  /* font-size: 18px; */
+}

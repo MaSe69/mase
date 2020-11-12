@@ -44,11 +44,15 @@
   flex: 0 0 100px;
   display: flex;
   background-color: var(--green90);
+  background-color: var(--green90);
+  background: linear-gradient(0deg, #788cff, #b4c8ff);
+  background: linear-gradient(180deg, var(--green60), var(--green90));
   color: whitesmoke;
 }
 
 .HolyGrail_final {
-  flex: 0 0 50px;
+  flex: 0 0 30px;
+  font-size:12px;
   display: flex;
   background-color: black;
   color: whitesmoke;

@@ -69,22 +69,12 @@ li {
   list-style-type: disc;
 }
 
-a {
-  color: var(--blue70);
-  text-decoration: underline;
-}
 
-a:hover {
+a, a:visited  {
   color: var(--blue70);
-  color: var(--red70);
   text-decoration: underline;
 }
-a:hover {
-  color: var(--blue70);
-  color: var(--red70);
-  text-decoration: underline;
-}
-header.a {
-  color: var(--blue70);
+a:hover, a:active {
+  color: var(--green70);
   text-decoration: underline;
 }
