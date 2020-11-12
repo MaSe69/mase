@@ -48,6 +48,8 @@
   background: linear-gradient(0deg, #788cff, #b4c8ff);
   background: linear-gradient(180deg, var(--green60), var(--green90));
   color: whitesmoke;
+  border-top: 2px solid var(--green10);
+  border-top: 0.51px solid yellow;
 }
 
 .HolyGrail_final {

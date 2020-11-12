@@ -1,15 +1,18 @@
 .header_container {
   display: flex;
   justify-content: space-between;
-  justify-content: left;
 }
 
 .header_left {
-  /* flex-basis: 0 0 9000px;
-  flex: 1; */
-  text-align: left;
-  /* text-align: right; */
-  /* text-align: justify; */
+  display: flex;
+  text-align: justify;
+  width: 600px;
+  justify-content: space-between;
+}
+.header_leftleft {
+  width: 200px;
+  height: 50px;
+  text-align: justify;
 }
 
 .header_right {
