@@ -17,14 +17,15 @@ body {
   line-height: 28px;
   color: black;
   text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-  font-size: 74px;
+  font-size: 48px;
   font-weight: 800;
   letter-spacing: 3px;
-  padding: 100px 100px  100px  100px;
-  text-decoration: underline solid;
+  padding: 50px 100px  100px  0px;
+  text-decoration: none;
   color: black;
 }
 
@@ -65,15 +66,16 @@ ul {
 
 li {
   color: black;
-  /* list-style-type: circle;
-  list-style-type: lower-roman;
-  list-style-type: lower-latin;
-  list-style-type: symbols("-");
-  list-style-type: square;
-  list-style-type: decimal; */
   list-style-type: disc;
 }
 
 a {
-  color: red;
+  color: var(--blue70);
+  text-decoration: underline;
+}
+
+a:hover {
+  color: var(--blue70);
+  color: var(--red70);
+  text-decoration: none;
 }
