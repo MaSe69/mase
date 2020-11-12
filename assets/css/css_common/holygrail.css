@@ -13,10 +13,10 @@
 
 .HolyGrail_header {
   position: sticky;
-  flex: 0 0 10px;
+  flex: 0 0 36px;
   display: flex;
   padding: 15px 0 10px 0;
-  border-bottom: 1px solid var(--green10);
+  border-bottom: 2px solid var(--green90);
 }
 
 .HolyGrail_login {
@@ -48,7 +48,7 @@
 }
 
 .HolyGrail_final {
-  flex: 0 0 20px;
+  flex: 0 0 50px;
   display: flex;
   background-color: black;
   color: whitesmoke;

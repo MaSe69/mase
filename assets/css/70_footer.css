@@ -1,0 +1,38 @@
+.footer-column-layout {
+  display: flex;
+  justify-content: space-between;
+  margin: 16px auto 16px auto;  
+
+  font-size: 10px;
+  text-align: left;
+  line-height: 1.65;
+  }
+  
+  .footer-column {
+    flex-basis: 15%;
+  }
+
+  h3.footer {
+    font-size: 16px;
+    font-weight: 600;
+    color: whitesmoke;
+
+  }
+
+  ul.footer {
+    color: whitesmoke;
+  }
+ li.footer {
+    color: whitesmoke;
+  }
+
+  a.footer {
+    text-align: left;
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+  }
+  
+  a.footer:hover {
+    text-decoration: underline;
+  }    

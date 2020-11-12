@@ -77,5 +77,14 @@ a {
 a:hover {
   color: var(--blue70);
   color: var(--red70);
-  text-decoration: none;
+  text-decoration: underline;
+}
+a:hover {
+  color: var(--blue70);
+  color: var(--red70);
+  text-decoration: underline;
+}
+header.a {
+  color: var(--blue70);
+  text-decoration: underline;
 }
