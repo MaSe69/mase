@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 livereload: true   
-livereload_max_delay: 3
+livereload_max_delay: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
