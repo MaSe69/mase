@@ -32,6 +32,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 livereload: true   
 livereload_max_delay: 2
