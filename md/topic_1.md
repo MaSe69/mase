@@ -18,5 +18,5 @@ A feasible learning path is given with the Python and its libraries approach.
 <br/>
 You can find an introduction to Python, Pandas, Seaborn, etc. here:
 
-[From List to Kubernetes](https://mase69.github.io/fromlisttok8s/)
+[Data Science for Business](https://mase69.github.io/dssb/)
 
