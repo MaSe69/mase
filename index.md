@@ -41,11 +41,4 @@ If you wonder ...
 - There is no advertising on these pages.
 - Nothing to be bought here.
 
-
-
-
-
-
-
-
-
+Here is my latest blog  - so you do not have to search. It is also here: [Compare two lists](comparetwolists)
