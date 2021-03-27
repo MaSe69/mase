@@ -4,7 +4,7 @@ title: Dr. Marcus Semling
 permalink: /index
 ---
 
-# Data Science For Business
+# Data Science For Entrepreneurs
 
 I have always been passionate about lists. "A day without a new list is a wasted day!", I said very long time ago. Back in 1993, I started with what is currently called "Data Science" in the context of applied Physics.
 We found it amazing that material properties could be forecasted with [such accuracy](https://doi.org/10.1002/(SICI)1099-128X(199709/10)11:5<403::AID-CEM485>3.0.CO;2-L). <br/>
@@ -14,11 +14,11 @@ The fascination about data science is to get to insights about reality that ofte
 Data Science has only started to live up to its potential in the context of business. When you dig into it, what you get is smarter analysis for bigger profits. I have build on and within such systems on the full stack, from the databases to the user interfaces, moving millions of data. Read on to get fascinating details on [Data Science](datascience).
 
 
-# Leadership Theory
+# Data Science for Personality and Sociality
 
-Followers follow leaders. And leader - hopefully - follow insights gained by data science.<br/>
+Data science has brought to our attention a lot about personality. <br/>
 
-Insights are not really relevant unless somebody acts on them. Hence, insights must be packages such that leaders can do something with them.<br/>
+Such insights are not really relevant unless somebody acts on them.
 
 This in turn leads to the question: What are leaders? What is leadership?<br/>
 
