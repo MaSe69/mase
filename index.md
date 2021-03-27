@@ -24,7 +24,7 @@ All this deals with fundametal skills to build up knowledge on dedicated topics.
 Let me mention my latest blog on a technical data science problem: [Compare two lists](comparetwolists)
 
 
-# Consulting based on Data Science
+# Topics based on Data Science
 
 I have been applying data science, on the following topics
 
