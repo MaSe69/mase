@@ -4,6 +4,7 @@ title: HEXACO (Deutsch)
 permalink: /HEXACO_DE
 ---
 
+
 # HEXACO
 
 In dieser Seite geht es zwar nicht um Persönlichkeitstests an sich, aber Persönlichkeitstests sind ein sehr guter Ausgangspunkt für alles Weitere.
@@ -61,11 +62,45 @@ Diese Interpretation ergibt sich durch die Unterteilung der Dimensionen, welche 
 
 ## Die Facetten der sechs Dimensionen
 
+(todo)
+
+# Teil 2: Arbeiten mit HEXACO 
+
+Wir können nun HEXACO mit seinen Dimensionen und Facetten benutzen. 
+Wir gehen davon aus, über genügend Punktstände (Datenpunkte oder kurz: Punkte) von uns und anderen zu verfüguen, um interessante Ergebnisse zu erzielen. 
+
+HEXACO beantwortet erst einmal die Frage:
+- Wie beschreibe ich andere und mich selbst?
+
+Zugegeben, man muss sich an diese doch recht eigenwilligen sechs Dimensionen gewöhnen. Hat man diese aber ersteinmal verinnerlicht, hat man ein Rahmenwerk, in dem man beschreiben kann. 
+
+Dies bringt uns zunächst zur Frage, wie die anderen eigentlich sind, bevor wir uns damit beschäftigen können, wie wir eigentlich im Vergleich zu anderen dastehen.
 
 
+# Wie sind die anderen eigentlich?
+
+Für jeder HEXACO Frage sind mehr Datenpunkte vorhanden, als ein Stastitiker für ein brauchbares Ergebnis benötigen würde.
+Wir wissen also, wie ein gewisser Durchschnitt eine Frage beantwortet hat. 
+
+Nehmen wir z.B. folgende beiden Fragen:
+- Wie sehr denkst du, dass du jemand bist, mit dem man vernünftig argumentieren kann? (AFex1)
+- Ärgert es Sie, wenn Dinge nicht so laufen, wie Sie diese geplant haben? (AFlex5)
+
+Anhand der Auswertung einer kleinen, aber durchaus repräsentativen Menge von Antworten sehen wir folgendes:
+
+![alt text](./assets/images/img_content/HEXACO_Starter.jpg "HEXACO")
+
+Die meisten Menschen, denken von sich, dass man vernünftig mit ihnen argumentieren kann. 
+Trotzdem ägert es die meisten Menschen, wenn Dinge nicht so laufen, wie sie es geplant haben.
+
+Dies muss nicht immer, aber kann im Widerspruch zu einander stehen. Jedenfalls für einen Außenstehenden.
 
 
+# Wie bin ich im Vergleich zu anderen?
 
+Wenn Sie also auch jemand sind, der meint, sich gut beraten lassen zu können, aber gleichzeitig weiß, Ärger zu verspüren, wenn Dinge anders laufen als geplant, so sind Sie nicht außergewöhnlich, sondern befinden sich in mehrheitlicher Gesellschaft.
+
+Bevor man sich also ändert, weil man meint, anders zu sein als die anderen, sollte man erst einmal wissen, wie die anderen wirklich sind und ob man gewöhnlich sein möchte oder doch besser außergewöhnlich.
 
 
 
