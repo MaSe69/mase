@@ -4,36 +4,41 @@ title: Dr. Marcus Semling
 permalink: /index
 ---
 
-# Data Science For Entrepreneurs
+# Data Science 
 
-I have always been passionate about lists. "A day without a new list is a wasted day!", I said very long time ago. Back in 1993, I started with what is currently called "Data Science" in the context of applied Physics.
-We found it amazing that material properties could be forecasted with [such accuracy](https://doi.org/10.1002/(SICI)1099-128X(199709/10)11:5<403::AID-CEM485>3.0.CO;2-L). <br/>
+Data science essentially transforms a huge amount of data into observations that can be acted upon.
 
-The fascination about data science is to get to insights about reality that often are unique. Only a few people or often only you have these data to deal with and find this or that particular relationship.<br/>
+My prefered computer languages are currently Python and Julia. 
 
-Data Science has only started to live up to its potential in the context of business. When you dig into it, what you get is smarter analysis for bigger profits. I have build on and within such systems on the full stack, from the databases to the user interfaces, moving millions of data. Read on to get fascinating details on [Data Science](datascience).
+My focus topics on data science include
+
+- Dataframes in Python (Pandas)
+- Dataframes in Julia
+- Comparison of dataframes in Python and Julia
+
+I moved these topics to a dedicated website on [Data Science](https://mase69.github.io/dssb/).
+Details are usually given in Juypter notebooks, which you can find from there.
+
+All this deals with fundametal skills to build up knowledge on dedicated topics. The details however are sometimes hard to remember and it is good to have some kind of structure in this vast area. 
+
+Let me mention my latest blog on a technical data science problem: [Compare two lists](comparetwolists)
 
 
-# Data Science for Personality and Sociality
+# Consulting based on Data Science
 
-Data science has brought to our attention a lot about personality. <br/>
+I have been applying data science, on the following topics
 
-Such insights are not really relevant unless somebody acts on them.
-
-This in turn leads to the question: What are leaders? What is leadership?<br/>
-
-Decision-support systems are one tool bringing data science to the leadership. Wouldn't it be great to benefit from all the trial-and-error experience that other decision-makers gathered? 
-At first, however, it needs to be understood what leadership is all about.
-Read on to get to discover a story on [Leadership Theory](leadershiptheory).
+- [HEXACO](HEXACO) or [HEXACO auf Deutsch](HEXACO_DE)
+- Social Glue, including Shame
+- Decision-making support
+- Data science for entrepreneurs
+- Leadership Theory
 
 
 # About me
 
-I am passionate about getting the latest info on topics of my interest. I do not stop with consuming info but try to think it further. As a programmer, I know that services need to run at high quality, and that I only understood them when I managed to get them running. 
-My topics of interest include the emergence of life, the prefrontal cortex, tribal rites, ... see [here](here) for findings.
-
-
-On the leisure part, including traveling, music, arts and sports, you can find more on the page [About Me](aboutme)
+You can find more on the page [About Me](aboutme)
+As I am German, and the audience here is often expected to be more familiar with German than with English, some pages are in German, and marked with "DE". 
 
 <br/><br/>
 
@@ -41,4 +46,3 @@ If you wonder ...
 - There is no advertising on these pages.
 - Nothing to be bought here.
 
-Here is my latest blog  - so you do not have to search. It is also here: [Compare two lists](comparetwolists)

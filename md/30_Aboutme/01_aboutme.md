@@ -6,11 +6,27 @@ permalink: /aboutme
 
 # About Me
 
-I was born in Freiburg, Germany. After a Diplom (kind of master) in Physics, I migrated to the digital world in the UK while doing a PhD at Warwick University. 
+I was born in Freiburg, Germany. I got a Diplom (kind of master) in Physics. In 2000, I got a PhD at Warwick University, UK.
 
-In 1996, I had my first web page online. Much of the rest is work of which I cannot disclose much here, but which influences the section of data science.
-Hence, after 9 years in academia, I have collected 22+ years on professional experience.
+# Work experience
 
-# Literature
+I have 20+ years of work experience, mostly is what is now called 'data science'.
+I did the 'data science part' in a paper published during my studies. [Data Science in Applied Chemistry](https://doi.org/10.1002/(SICI)1099-128X(199709/10)11:5<403::AID-CEM485>3.0.CO;2-L). <br/>
+
+
+## Data Science
+
+I have always been passionate about lists. "A day without a new list is a wasted day!", I used to say. 
+The fascination about data science is to get to insights about reality that often are unique. Only a few people or often only you have these data to deal with and find this or that particular relationship.
+
+## Further topics of interest
+
+
+ [Leadership Theory](leadershiptheory).
+ [History](leadershiptheory).
+ [Tattoo](leadershiptheory).
+
 
 Here is a list on [Literature](references) that I find relevant in this context.
+
+
