@@ -34,8 +34,8 @@ and on a deep-dive into dataframes for data science
 My current focus topics in data science are
 
 - [Dataframes in Python (Pandas)](https://mase69.github.io/dssb/pandas)
-- [Dataframes in Julia](https://mase69.github.io/dssb/julia)
-- [Comparison of dataframes in Python and Julia](https://mase69.github.io/dssb/julia)
+- [Dataframes in Julia](https://mase69.github.io/dssb/dfjulia)
+- [Comparison of dataframes in Python and Julia](https://mase69.github.io/dssb/dfcomparison)
 
 
 My latest blog on a technical data science problem deals with comparing two lists to find out which entries are unique to either list. 
