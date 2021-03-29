@@ -10,7 +10,8 @@ I was born in Freiburg, Germany. I got a Diplom (kind of master) in Physics. In 
 
 # Work experience
 
-I have 20+ years of work experience, mostly is what is now called 'data science', e.g. an eternity ago I did the 'data science part' in a paper published during my studies: [Data Science in Applied Chemistry](https://doi.org/10.1002/(SICI)1099-128X(199709/10)11:5<403::AID-CEM485>3.0.CO;2-L). <br/>
+I have 20+ years of work experience, mostly is what is now called 'data science', e.g. an eternity ago I did the 'data science part' in a paper published during my studies:
+- [Data Science in Applied Chemistry](https://doi.org/10.1002/(SICI)1099-128X(199709/10)11:5<403::AID-CEM485>3.0.CO;2-L). <br/>
 
 
 ## Data Science
@@ -18,16 +19,9 @@ I have 20+ years of work experience, mostly is what is now called 'data science'
 I have always been passionate about lists. "A day without a new list is a wasted day!", I used to say. 
 The fascination about data science is to get to insights about reality that often are unique. Only a few people or often only you have these data to deal with and find this or that particular relationship.
 
-## Further topics of interest
 
-I also did some deep dives into the following topics:
+## Reading List
 
-- [Leadership Theory](https://mase69.github.io/lestmars/)
-- [Interesting areas in history](https://mase69.github.io/histmars/)
-- [Tattoos](https://mase69.github.io/tatmars/)
-
-Though I had not the time to write everything down, the idea is to have these sites grow in content over time.
-
-Here is a list on [Literature](references) that I find relevant in this context.
+Here is a list on [Literature](references) on which some of the info here is based.
 
 

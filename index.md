@@ -4,45 +4,59 @@ title: Dr. Marcus Semling
 permalink: /index
 ---
 
-# Data Science 
 
-Data science essentially transforms a huge amount of data into observations that can be acted upon.
+Welcome, 
 
-My prefered computer languages are currently Python and Julia. 
+this is a private website shared with family and friends. No advertisments.<br>
+Feel welcome to explore. Perhaps, you discover something interesting.
 
-My focus topics on data science include
-
-- Dataframes in Python (Pandas)
-- Dataframes in Julia
-- Comparison of dataframes in Python and Julia
-
-I moved these topics to a dedicated website on [Data Science](https://mase69.github.io/dssb/).
-Details are usually given in Juypter notebooks, which you can find from there.
-
-All this deals with fundametal skills to build up knowledge on dedicated topics. The details however are sometimes hard to remember and it is good to have some kind of structure in this vast area. 
-
-Let me mention my latest blog on a technical data science problem: [Compare two lists](comparetwolists)
+As some of the content is meant for a German audience, some pages are in German and marked with "DE". 
 
 
-# Topics based on Data Science
+# Current Soft-skill Topics 
 
-I have been applying data science, on the following topics
+Currently, these are the soft-skill topics:
 
-- [HEXACO](HEXACO) or [HEXACO auf Deutsch](HEXACO_DE)
-- Social Glue, including Shame
-- Decision-making support
-- Data science for entrepreneurs
-- Leadership Theory
+- [HEXACO](HEXACO) 
+
+This topic is also available in German 
+- [HEXACO auf Deutsch](HEXACO_DE)
+
+Further, there is a deep dive into the topic
+- [Social Glue, including Shame](SocialGlue)
 
 
-# About me
+# Current Data Science Topics 
 
-You can find more on the page [About Me](aboutme)
-As I am German, and the audience here is often expected to be more familiar with German than with English, some pages are in German, and marked with "DE". 
+and on a deep-dive into dataframes for data science
+- [Data Science](https://mase69.github.io/dssb/).
 
-<br/><br/>
+My current focus topics in data science are
 
-If you wonder ... 
-- There is no advertising on these pages.
-- Nothing to be bought here.
+- [Dataframes in Python (Pandas)](https://mase69.github.io/dssb/pandas)
+- [Dataframes in Julia](https://mase69.github.io/dssb/julia)
+- [Comparison of dataframes in Python and Julia](https://mase69.github.io/dssb/julia)
+
+
+My latest blog on a technical data science problem deals with comparing two lists to find out which entries are unique to either list. 
+- [Compare two lists](comparetwolists)
+
+
+# Other Topics
+
+I did some work and intend to continue as soon as time permits on the following topics:
+
+- [Leadership Theory](https://mase69.github.io/lestmars/)
+- [Focus topics in History](https://mase69.github.io/histmars/)
+- [Tattoos](https://mase69.github.io/tatmars/)
+
+
+# About 
+
+If you wish, you can find out more [about me](aboutme). <br>
+Feel welcome to visit me on 
+- [LinkedIn](https://www.linkedin.com/in/drmarcussemling/)
+- [YouTube](https://www.youtube.com/channel/UCGFxaMjKtaOumxiB8GSgXbQ)
+
+
 
