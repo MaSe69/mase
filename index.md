@@ -1,9 +1,8 @@
 ---
 layout: 01_landing
-title: Dr. Marcus Semling
+title: drmaseway
 permalink: /index
 ---
-
 
 Welcome, 
 
@@ -48,10 +47,16 @@ My latest blog on a technical data science problem deals with comparing two list
 
 # Other Topics
 
+The history topic is currently developed in German language:
+- [Entscheidende Phasen der Geschichte](history_de) 
+
+When ready, parts of it are planned to go here:
+- [Decisive Phases in Human History](history) 
+
+
 I did some work and intend to continue as soon as time permits on the following topics:
 
 - [Tattoo Design](https://mase69.github.io/tatmars/)
-- [Decisive phases in Human History](https://mase69.github.io/histmars/)
 - [Leadership Theory](https://mase69.github.io/lestmars/)
 
 
