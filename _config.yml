@@ -22,7 +22,7 @@ title: drmaseway.com
 email: your-email@example.com
 description: Main page of drmaseway.com | Personality tests | HEXACO | Pandas dataframes | German | Deutsch
 # baseurl: "" # the subpath of your site, e.g. /blog
-baseurl: "/mase" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
