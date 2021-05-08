@@ -20,9 +20,7 @@ Personality tests can support you in describing your personality in relation to 
 
 Our favorite personality tests is 
 
-- [HEXACO](HEXACO) 
-
-On HEXACO, we provide a German translation
+- [HEXACO in English](HEXACO) 
 - [HEXACO auf Deutsch](HEXACO_DE)
 
 Further, there is a deep dive into the topic
@@ -31,14 +29,13 @@ Further, there is a deep dive into the topic
 
 # Data Science Topics 
 
-My passion on lists led ta deep-dive to dataframes in data science
+If you wonder what Data Science is about, here is my introduction to 
+
 - [Data Science](https://mase69.github.io/dssb/).
 
-My current focus topics in data science are
+If you are developing Python code for Data Science, you might find my cheat sheet on Pandas dataframe useful:
 
-- [Dataframes in Python (Pandas)](https://mase69.github.io/dssb/pandas)
-- [Dataframes in Julia](https://mase69.github.io/dssb/dfjulia)
-- [Comparison of dataframes in Python and Julia](https://mase69.github.io/dssb/dfcomparison)
+- [Dataframes in Pandas Python (Cheat Sheet)](https://mase69.github.io/dssb/pandas)
 
 
 My latest blog on a technical data science problem deals with comparing two lists to find out which entries are unique to either list. 
