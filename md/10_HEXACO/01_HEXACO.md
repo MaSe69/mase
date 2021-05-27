@@ -18,7 +18,7 @@ HEXACO describes personality using six dimensions.
 Find below a first impression on the distribution of HEXACO scores.
 
 <center>
-{% include images/image.html imagePath = "../assets/images/img_hex/hex_01_start.png" altText =  ""%}
+{% include images/image.html imagePath = "../assets/images/img_hex/hex_12_boxplot.png" altText =  ""%}
 Scores in the six HEXACO Dimension.
 </center><br>
 
