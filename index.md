@@ -5,16 +5,15 @@ permalink: /index
 ---
 
 
-
-
-
 # On Personality
 
-You should be able to describe your personality in a stanardized framework, because this will make you more successful or happier in life, 
+We are all aware of having a unique personality. <br>
+You might want to be able to describe your personality in a stanardized framework, because this will make you more successful or happier in life or both.
 
-My favorite personality tests is the HEXACO test, which I describe in some detail.
-Further, based on the data science linked below, I did own investigations on personality.
-Please find here some surprising insights on how 'we really are'.
+My favorite personality tests is called HEXACO.
+
+Based on the data science linked below, I did some own investigations on personality.<br>
+Would you like to find some surprising insights on how 'we really are'?
 
 - [HEXACO in English](HEXACO) 
 
@@ -24,12 +23,11 @@ As some of the content is meant for a German audience, some pages are in German 
 
 # On Teams
 
-Reportedly, humans have two decisive features
-- flexibility
-- forming groups
+Having covered personality, is a good starting point to understand how sucessful teams can be built.
 
-The combination of these two features leads to some benefits, but comes also with some issues.
-Being able to describe the own personality, you might move on to describe teams and the social glue that holds it together.
+Composing flexibly new groups is a decisive human feature.
+I looked in some depth how such groups are formed and how these groups are kept together.
+Which is this social and how does it work?
 
 - [On Teams](SocialGlue)
 
@@ -37,10 +35,19 @@ Being able to describe the own personality, you might move on to describe teams 
 
 ## Leadership Theory
 
+Teams typically come along with some kind of leadership, which might be very weak or extraordinarily strong.<br>
+What does it take for an individual to become a leader?
+
+
 - [Leadership Theory](https://mase69.github.io/lestmars/)
 
 
+
 ## History
+
+In the global, digital world, we are enabled to build big, strong teams to go for ambitious goals.<br>
+When deciding about where we want to go to, we always should have an eye on where we came from.
+The way history is told makes a key difference on our future ambitions.
 
 The history topic is currently developed in German language:
 - [Entscheidende Phasen der Geschichte](history_de) 
@@ -48,12 +55,18 @@ The history topic is currently developed in German language:
 When ready, parts of it are planned to go here:
 - [Decisive Phases in Human History](history) 
 
-
 ## Painting and Tattoo Design
 
-I did some work and intend to continue as soon as time permits on the following topics:
+Inspired by Bob Ross, I started with painting may years ago.
+Later I switched to digital arts using the software Krita.
+I then discovered that tattoos have played a significant role in both personality and team building.
 
 - [Painting and Tattoo Design](https://mase69.github.io/tatmars/)
+
+
+# Science
+
+Long time ago, I passed the tests to become a scientist and I have been working as a data scientist. Getting to new, surprising insights is still my passion. 
 
 ## Beautiful Dataframes
 
