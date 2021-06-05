@@ -4,22 +4,24 @@ title: drmaseway
 permalink: /index
 ---
 
-
 # On Personality
 
-We are all aware of having a unique personality. <br>
-You might want to be able to describe your personality in a stanardized framework, because this will make you more successful or happier in life or both.
+For me, the HEXACO test is sufficient for describing a personality in a scientific framework.<br>
+You can do the HEXACO test on the respective page, get your result and background info there:
 
-My favorite personality tests is called HEXACO.
+- [hexaco.org](http://hexaco.org/)
 
-Based on the data science linked below, I did some own investigations on personality.<br>
-Would you like to find some surprising insights on how 'we really are'?
+In addition, you get here 
+- Analysis by a data scientist on how the others voted on the HEXACO facets.
+- Thoughs on the results of the 'HEXACO 22.000+ answers sample'.
+- Ideas on how to continue from such a description of personality.
 
-- [HEXACO in English](HEXACO) 
+Please continue reading here:
+- [HEXACO on this site](HEXACO) 
 
-As some of the content is meant for a German audience, some pages are in German and marked with "DE". 
+As some of the content is meant for a German audience, some pages are in German. 
 
-- [HEXACO (DE)](HEXACO_DE)
+- [HEXACO on this site in German](HEXACO_DE)
 
 # On Teams
 
