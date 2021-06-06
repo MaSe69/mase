@@ -9,7 +9,7 @@ permalink: /index
 For me, the HEXACO test is sufficient for describing a personality in a scientific framework.<br>
 You can do the HEXACO test on the respective page, get your result and background info there:
 
-- [hexaco.org](http://hexaco.org/)
+- [Take the HEXACO-PI-R test on hexaco.org](http://hexaco.org/hexaco-online/)
 
 In addition, you get here 
 - Analysis by a data scientist on how the others voted on the HEXACO facets.
@@ -31,7 +31,7 @@ Composing flexibly new groups is a decisive human feature.
 I looked in some depth how such groups are formed and how these groups are kept together.
 Which is this social and how does it work?
 
-- [On Teams](SocialGlue)
+- [On Teams](teams)
 
 # My Other Topics Of Interest
 
@@ -66,11 +66,7 @@ I then discovered that tattoos have played a significant role in both personalit
 - [Painting and Tattoo Design](https://mase69.github.io/tatmars/)
 
 
-# Science
-
-Long time ago, I passed the tests to become a scientist and I have been working as a data scientist. Getting to new, surprising insights is still my passion. 
-
-## Beautiful Dataframes
+#  Dataframes
 
 As the saying goes: 
 
@@ -82,7 +78,7 @@ In the digital world, this might lead to
 > 
     There is as much insight into a topic as there is data science.
 
-I believe that dataframes are key to mastering data science. 
+Dataframes are key to mastering data science. 
 Beautiful dataframes lead to deep and surprising insights.
 You can find my introduction to beautiful dataframes here:
 

@@ -32,7 +32,7 @@ The scores were adjusted for ease of readability: <br>'+++' on fearfulness shoul
 Scores in 12 HEXACO Facets based on more than cleaned-up 22 000 data. <br>The middle line indicates the mean value. The variation is indicated by the width of the respective bar.
 </center><br>
 
-Details given on the original site [Facets on the HEXACO page](http://hexaco.org/facets), and shall not be repeated here.
+Details given on the original site [Facets on the HEXACO page](http://hexaco.org/scaledescriptions), and shall not be repeated here.
 <br>
 The available data needed some preparations and cleaning, as nearly half of questions are posed in reverse order, and some participants were presumably not answering seriously. 
 <br>

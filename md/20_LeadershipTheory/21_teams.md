@@ -6,8 +6,8 @@ permalink: /teams
 
 # Teams
 
-
 ## Fundamentals
+
 ### Dunbar's Numbers
 
 
@@ -20,13 +20,14 @@ permalink: /teams
 ### System I and System II
 
 
-## Teams Transformation
+## Team Personality Transformation
 
-### Personality of Teams
-
-Teams
+### Personality of Existing Teams
 
 
+### Team Target Personality
 
+
+### Optimizing Team Personality
 
 
