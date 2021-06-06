@@ -41,7 +41,7 @@ Teams typically come along with some kind of leadership, which might be very wea
 What does it take for an individual to become a leader?
 
 
-- [Leadership Theory](https://mase69.github.io/lestmars/)
+- [Leadership Theory](leadership_theory)
 
 
 
