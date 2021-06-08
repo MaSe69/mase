@@ -8,7 +8,7 @@ permalink: /teams
 
 ## Team Personality Transformation
 
-My underlying assumption here is that a team has a personality which can be described comparably to that of an individal.
+My underlying assumption here is that a team has a personality which can be described comparably to that of an individual.
 
 Teams are formed to fulfill specific task, typically specified externally. For each task there is an ideal 'team personality' that fulfills this task best.
 
@@ -25,12 +25,12 @@ Simple example: If all team member are fearful, anxious and consider themselves 
 
 ### The Ideal Team Personality
 
-For each cagegory of task, there is an ideal team personality. It is rather a cluster in the 6-dimensional HEXACO-space, i.e. some deviation from the ideal value is 'good enough'. 
+For each category of task, there is an ideal team personality. It is rather a cluster in the 6-dimensional HEXACO-space, i.e. some deviation from the ideal value is 'good enough'. 
 
 Simple example: For a team in medical care, high empathy and perfectionism is desirable.
 
 Apart from the external goal, as an important side condition, the team cohesion must be taken into account. <br> 
-Simple example: Two individuals with high unconventionality and low modestity might trigger the team to split - or at least to be mainly consumed with team internal struggle instead of making progress towards the goal. 
+Simple example: Two individuals with high unconventionality and low modesty might trigger the team to split - or at least to be mainly consumed with team internal struggle instead of making progress towards the goal. 
 
 ### Optimizing Team Personality
 
@@ -51,11 +51,11 @@ In many publications and easy to find on the internet, e.g. in "How the Evolutio
 In this context, Dunbar's number mainly tell us where we are coming from. As social being, we need to be member of groups.
 
 With respect to the HEXACO test, an interesting question might be which group the participant had in mind.
-It is likely to make a difference, when investigating the propensity of cheating, if this cheating is understood to be with respect to the familiar group of 150 members or with respect to an rather anonymous state.
+It is likely to make a difference, when investigating the propensity of cheating, if this cheating is understood to be with respect to the familiar group of 150 members or with respect to a rather anonymous state.
 
 ### System I and System II
 
-One ingenuity of David Kahnemann has been to simplify the complexity of neurocience into just 'two systems'.
+One ingenuity of David Kahnemann has been to simplify the complexity of neuroscience into just 'two systems'.
 
 As Gamble, Gowlett and Dunbar, see [References of this site](references), indicate system II was rather developed to enable bigger group sizes. 
 
@@ -76,7 +76,7 @@ A flexible group is a set of human individuals that is formed to reach an object
 The outcome of a group can be vastly better than that of any individual. Therefore, companies try to build as many 'strong teams' as possible. 
 
 Many teams however fail, both due to group internal reasons and to external changes. A well combined team can have a lot of inner strength to cope with unavoidable internal conflicts as well as gaining momentum to overcome biggest external hurdles. 
-The happiness and fulfillment experienced by team members in such successful teams strengthen the implications by Dunbar's numbers, i.e. we humans are meant to florish in such groups.
+The happiness and fulfillment experienced by team members in such successful teams strengthen the implications by Dunbar's numbers, i.e. we humans are meant to flourish in such groups.
 
 ### The Relevance of Imagination For Flexible Groups
 

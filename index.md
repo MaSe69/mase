@@ -13,7 +13,7 @@ You can do the HEXACO test on the respective page, get your result and backgroun
 
 In addition, you get here 
 - Analysis by a data scientist on how the others voted on the HEXACO facets.
-- Thoughs on the results of the 'HEXACO 22.000+ answers sample'.
+- Thoughts on the results of the 'HEXACO 22.000+ answers sample'.
 - Ideas on how to continue from such a description of personality.
 
 Please continue reading here:
@@ -25,7 +25,7 @@ As some of the content is meant for a German audience, some pages are in German.
 
 # On Teams
 
-Having covered personality, is a good starting point to understand how sucessful teams can be built.
+Having covered personality, is a good starting point to understand how successful teams can be built.
 
 Composing flexibly new groups is a decisive human feature.
 I looked in some depth how such groups are formed and how these groups are kept together.

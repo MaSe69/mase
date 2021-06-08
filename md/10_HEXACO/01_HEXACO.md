@@ -12,7 +12,7 @@ Please feel encouraged to support the cause of HEXACO by visiting the official s
 
 - [hexaco.org](http://hexaco.org/)
 
-Let me further recommend the book [THE H FACTOR of PERSONALITY](https://www.amazon.com/-/de/dp/1554588340/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=the+h+factor&qid=1616861450&sr=8-1) by the HEXACO inventors,  Kibeom Lee and Michael C. Ashton. It give particularly insights on the H-factor that distinguishes HEXACO most from other personality tests 
+Let me further recommend the book [THE H FACTOR of PERSONALITY](https://www.amazon.com/-/de/dp/1554588340/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=the+h+factor&qid=1616861450&sr=8-1) by the HEXACO inventors,  Kibeom Lee and Michael C. Ashton. It gives particularly insights on the H-factor that distinguishes HEXACO most from other personality tests 
 
 ## HEXACO Facets - A First Result
 
@@ -56,9 +56,9 @@ Based on these assumption, we can note that the participants have surprisingly h
 If your HEXACO result turned out to give you slightly 'positive' values for such facets, then, in fact, you are just average. By the way, this also holds true for creativity and unconventionality. So, having marked positive scores here is nothing special, most people apparently think of themselves to be creative and unconventional. In particular, do not praise yourself to like arts, as really most participants do - but also don't blame yourself for thinking to be "more capable than most others" as more people do so than don't. 
 <br>
 Certainly, these results depend on the data.<br>
-When you start with a fresh data set, the results will vary heavily at the start and converge only wit hmore data. More than 22 000 data, i.e. answers to 240 questions, is beyond the scope of needed here. For any subset of 1000 data, the same qualitative result is reached. Consequently, the means and the distributions are fairly solid.
+When you start with a fresh data set, the results will vary heavily at the start and converge only with more data. More than 22 000 data, i.e. answers to 240 questions, is beyond the scope of needed here. For any subset of 1000 data, the same qualitative result is reached. Consequently, the means and the distributions are fairly solid.
 <br>
-A restriction is though that the participants might have predominantly been 'curious internet users'. They might not be respresentative of the whole populuation. However, it is exactly that part of the population that I am interested in.
+A restriction is though that the participants might have predominantly been 'curious internet users'. They might not be representative of the whole population. However, it is exactly that part of the population that I am interested in.
 
 
 ### Variance
@@ -69,7 +69,7 @@ As for anxiety, participants seem "to worry a lot". As most do so intensively, i
 <br>
 As for fearfulness, participants are e.g. moderately "prepared to take risks", with only a few being on the far risk taking side and even fewer on the extreme risk-avoidance side.
 <br>
-Variance investigation leads to personalty traits which support more than others to distingish persons. As an intervierwer, hence, you might want to pick questions from the anxiety set and omit those from fearfulness.
+Variance investigation leads to personality traits which support more than others to distinguish persons. As an intervierwer, hence, you might want to pick questions from the anxiety set and omit those from fearfulness.
 
 
 ## HEXACO Dimensions
