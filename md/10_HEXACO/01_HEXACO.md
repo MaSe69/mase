@@ -4,11 +4,9 @@ title: HEXACO
 permalink: /HEXACO
 ---
 
+## Acknowledgements and References
 
-
-## Acknowledgements
-
-Please feel encouraged to support the cause of HEXACO by visiting the official site, perform the assessment yourself and consider to **contribute** for their service to return the assessment for free on their site:
+Please feel encouraged to support the cause of HEXACO by visiting the official site, perform the HEXACO test yourself and consider to **contribute** for their service to return the assessment for free on their site:
 
 - [hexaco.org](http://hexaco.org/)
 
@@ -16,27 +14,24 @@ Let me further recommend the book [THE H FACTOR of PERSONALITY](https://www.amaz
 
 ## HEXACO Facets - A First Result
 
-Assumingly, you are aware that HEXACO is the acronym for 6 dimenions.<br>
-Each dimension is the aggregation of 4 so-called 'facets'. 
-They might have called them categories and sub-categories. <br>
+Assumingly, you are aware that HEXACO is the acronym for 6 dimensions Each of these dimensions is the aggregation of 4 so-called 'facets'. In total, hence, there are 24 HEXACO Facets.
 
-In total, hence, there are 24 HEXACO Facets. <br>
-Let's focus on these facets. They should lead to a characteristic value for each personality trait of a specific person, but they should be independent of the concrete questions leading to that value. Further, you need to get down to the facets anyway when you want to make sense of a HEXACO result.
-<br>
+Let's focus on these facets. They should lead to a characteristic score for each personality trait of a specific person. Facets should be independent of the concrete questions leading to that score. Further, you need to get down to the facets anyway when you want to make sense of a HEXACO result.
+
 Please find in my graph below the results for half of the facets, two facets for each dimension.
 <br> 
-The scores were adjusted for ease of readability: <br>'+++' on fearfulness should relate to a 'very fearful' individual, whereas a '- - -' just indicates the opposite.
+I adjusted the scale for ease of readability: <br>
+'+++' on fearfulness should relate to a 'very fearful' individual, whereas a '- - -' just means the opposite.
 
 <center>
 {% include images/image.html imagePath = "../assets/images/img_hex/hex_105_Facets_boxplot_for_web.png" altText =  ""%}
-Scores in 12 HEXACO Facets based on more than cleaned-up 22 000 data. <br>The middle line indicates the mean value. The variation is indicated by the width of the respective bar.
+Scores of 12 HEXACO Facets based on more than 22 000 cleaned-up test results. <br>The middle line of each box indicates the mean. The variation is indicated by the width of the respective box.
 </center><br>
 
-Details given on the original site [Facets on the HEXACO page](http://hexaco.org/scaledescriptions), and shall not be repeated here.
-<br>
-The available data needed some preparations and cleaning, as nearly half of questions are posed in reverse order, and some participants were presumably not answering seriously. 
-<br>
+Details given on the original site 
+- [Facets on the HEXACO page](http://hexaco.org/scaledescriptions).
 
+The available data needed some preparations and cleaning, as nearly half of questions are posed in reverse order. Some participants were presumably not answering seriously. I removed such data.
 
 ## HEXACO Facets - Discussion
 
@@ -53,7 +48,7 @@ Based on these assumption, we can note that the participants have surprisingly h
 - Aesthetic Appreciation
 - Inquisitiveness
 
-If your HEXACO result turned out to give you slightly 'positive' values for such facets, then, in fact, you are just average. By the way, this also holds true for creativity and unconventionality. So, having marked positive scores here is nothing special, most people apparently think of themselves to be creative and unconventional. In particular, do not praise yourself to like arts, as really most participants do - but also don't blame yourself for thinking to be "more capable than most others" as more people do so than don't. 
+If your HEXACO result turned out to give you slightly 'positive' scores for such facets, then, in fact, you are just average. By the way, this also holds true for creativity and unconventionality. So, having marked positive scores here is nothing special, most people apparently think of themselves to be creative and unconventional. In particular, do not praise yourself to like arts, as really most participants do - but also don't blame yourself for thinking to be "more capable than most others" as more people do so than don't. 
 <br>
 Certainly, these results depend on the data.<br>
 When you start with a fresh data set, the results will vary heavily at the start and converge only with more data. More than 22 000 data, i.e. answers to 240 questions, is beyond the scope of needed here. For any subset of 1000 data, the same qualitative result is reached. Consequently, the means and the distributions are fairly solid.
