@@ -9,47 +9,57 @@
 * {
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
-  font: 16px;
 
 }
 
 body {
-  font-size: 18px;
+  font-size: 22px;
   line-height: 28px;
-  line-height: 32px;
   color: black;
   text-align: justify;
   font-family: Arial, Helvetica, sans-serif;
-  font-family: 'Times New Roman', Times, serif  
 }
-
 
 p {
-  padding: 10px 0px  10px  0px;
-  margin: 0px 0px  0px  0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
+ul {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: black;
+  padding-left: 64px;
+}
+
+li {
+  color: black;
+  list-style-type: disc;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+
 h1 {
-  font-size: 36px;
+  font-size: 34px;
   font-weight: 800;
   letter-spacing: 4px;
-  padding: 50px 20px  20px  0px;
-  margin: 0px 0px  00px  0px;
-  text-decoration: underline solid 4px var(--blue20);
+  padding: 40px 0px  20px  0px;
+  color: black;
 
 }
 h2 {
-  font-size: 34px;
+  font-size: 30px;
   font-weight: 600;
   letter-spacing: 3px;
-  padding: 40px 0px  20px  0px;
+  padding: 50px 0px 10px  0px;
 
 }
 h3 {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 500;
   letter-spacing: 2px;
-  padding: 30px 0px  10px  0px;
+  padding: 50px 0px 10px  0px;
 
 }
 h4 {
@@ -58,21 +68,9 @@ h4 {
   letter-spacing: px;
   padding: 20px 0px  10px  0px;
 }
-
-code {
-  background: rgb(220, 215, 215);
-  padding: 5px 40px 5px 40px ;
-  margin: 20px 0px 20px 40px ;
-  font-weight: 600;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-family: Arial, Helvetica, sans-serif;
-
-}
-
 img {
   /* Decisive to keep the picture in the flexbox! */
   max-width: 100%;
-  height: 500px;
 }
 
 strong {
@@ -80,19 +78,10 @@ strong {
   font-weight: 900;
 }
 
-ul {
-  padding: 20px 0px 20px 64px ;
-  color: black;
-}
-
-li {
-  color: black;
-  list-style-type: disc;
-}
-
 
 a, a:visited  {
   color: var(--blue70);
+  color: var(--blue50);
   text-decoration: underline;
 }
 a:hover, a:active {
@@ -100,12 +89,18 @@ a:hover, a:active {
   text-decoration: underline;
 }
 
-.capture {
-  text-align: center;
-  font-size: 20px;
-}
-
-.page_image_container {
-  padding-top: 40px;
-  padding-bottom: 20px;
+  blockquote {
+    background-color: #ebebf3;
+    page-break-inside: auto;
+    page-break-inside: inherit ;
+    width: 90%;
+    margin: 20px auto 20px 60px;
+    margin: 5px auto 5px 60px;
+    padding: 1.2em 30px 20px 40px;
+    padding: 5px 30px 5px 40px;
+    font-size: 18px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-left: 8px solid var(--blue10);
 }
