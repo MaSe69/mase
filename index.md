@@ -17,11 +17,11 @@ In addition, you get here
 - Ideas on how to continue from such a description of personality.
 
 Please continue reading here:
-- [HEXACO on this site](HEXACO) 
+- :us: [HEXACO on this site](HEXACO) 
 
 As some of the content is meant for a German audience, some pages are in German. 
 
-- [HEXACO on this site in German](HEXACO_DE)
+- :de: [HEXACO on this site](HEXACO_DE)
 
 # On Teams
 
