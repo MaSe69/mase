@@ -6,5 +6,7 @@ permalink: /facets_DE
 
 # Facetten
 
-## Humility
+## Ehrlichkeit-Bescheidenheit - (Honesty-Humility)
 
+
+ds

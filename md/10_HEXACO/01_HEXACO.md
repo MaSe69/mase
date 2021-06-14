@@ -19,6 +19,8 @@ Assumingly, you are aware that HEXACO is the acronym for 6 dimensions Each of th
 Let's focus on these facets. They should lead to a characteristic score for each personality trait of a specific person. Facets should be independent of the concrete questions leading to that score. Further, you need to get down to the facets anyway when you want to make sense of a HEXACO result.
 
 Please find in my graph below the results for half of the facets, two facets for each dimension.
+
+These results are based on a particular HEXACO Test that used 240 questions, which is **not** the one that you currently find on hexaco.org for self test.
 <br> 
 I adjusted the scale for ease of readability: <br>
 '+++' on fearfulness should relate to a 'very fearful' individual, whereas a '- - -' just means the opposite.
@@ -33,27 +35,30 @@ Details given on the original site
 
 The available data needed some preparations and cleaning, as nearly half of questions are posed in reverse order. Some participants were presumably not answering seriously. I removed such data.
 
-## HEXACO Facets - Discussion
+## HEXACO Facets - What does this result mean?
 
-### Zero is the mean?
+### Are the others as we expect them to be?
 
-A first observation on the distribution of the mean is its deviation from the zero-level. For 'Fairness', 'Aesthetic Appreciation', and 'Inquisitiveness' the mean is between '+' and '++'. <br>
-Assumingly, the goal for a facet - and hence the questions used to quantify it - is to average around the zero-level.
-<br>
-The result tells us something about the expectation of the inventors of the HEXACO test - or at least about the respective set of questions - in comparison to the 'reality' revealed by the answers. Possibly, these expectations reflected a mutual understanding at the time. Possibly, when you took the test yourself, you noticed this expectation in the way the questions were presented.
-<br>
-Based on these assumption, we can note that the participants have surprisingly high
+At first, you surely noticed that many means are not at zero.
+For 'Fairness', 'Aesthetic Appreciation', and 'Inquisitiveness' the mean is between '+' and '++'.
+
+Shouldn't it be the goal for a facet to average out at zero?<br>
+I think, it should.
+
+Presumably, the intention of the questioners was to exactly that. Hence, the difference between the expectations on the distribution of answers and the 'real' answers is very interesting.
+
+I infer that even the experts were at least a bit wrong about their expectations.
+They just didn't know better. But now we've got these great results. We shouldn't waste this chance to get more insights out of them!
+
+In this sense, participants assessed themselves to possess surprisingly high
 - Fairness
 - Anxiety
 - Aesthetic Appreciation
 - Inquisitiveness
 
-If your HEXACO result turned out to give you slightly 'positive' scores for such facets, then, in fact, you are just average. By the way, this also holds true for creativity and unconventionality. So, having marked positive scores here is nothing special, most people apparently think of themselves to be creative and unconventional. In particular, do not praise yourself to like arts, as really most participants do - but also don't blame yourself for thinking to be "more capable than most others" as more people do so than don't. 
-<br>
-Certainly, these results depend on the data.<br>
-When you start with a fresh data set, the results will vary heavily at the start and converge only with more data. More than 22 000 data, i.e. answers to 240 questions, is beyond the scope of needed here. For any subset of 1000 data, the same qualitative result is reached. Consequently, the means and the distributions are fairly solid.
-<br>
-A restriction is though that the participants might have predominantly been 'curious internet users'. They might not be representative of the whole population. However, it is exactly that part of the population that I am interested in.
+If you took that particular HEXACO test and those results turned out to give you slightly positive scores for such facets, then you are in fact just average.
+
+As this also holds true for creativity and unconventionality, slightly positive scores are nothing special.  Most people apparently think of themselves to be creative and unconventional. In particular, do not praise yourself to like arts, as really most participants do - but also don't blame yourself for thinking to be "more capable than most others" as more people do so than don't. 
 
 
 ### Variance
@@ -66,6 +71,13 @@ As for fearfulness, participants are e.g. moderately "prepared to take risks", w
 <br>
 Variance investigation leads to personality traits which support more than others to distinguish persons. As an intervierwer, hence, you might want to pick questions from the anxiety set and omit those from fearfulness.
 
+### Quality of Data
+
+<br>
+Certainly, these results depend on the data.<br>
+When you start with a fresh data set, the results will vary heavily at the start and converge only with more data. More than 22 000 data, i.e. answers to 240 questions, is beyond the scope of needed here. For any subset of 1000 data, the same qualitative result is reached. Consequently, the means and the distributions are fairly solid.
+<br>
+A restriction is though that the participants might have predominantly been 'curious internet users'. They might not be representative of the whole population. However, it is exactly that part of the population that I am interested in.
 
 ## HEXACO Dimensions
 
