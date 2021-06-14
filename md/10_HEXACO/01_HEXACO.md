@@ -22,13 +22,15 @@ Please find in my graph below the results for half of the facets, two facets for
 
 These results are based on a particular HEXACO Test that used 240 questions, which is **not** the one that you currently find on hexaco.org for self test.
 <br> 
-I adjusted the scale for ease of readability: <br>
-'+++' on fearfulness should relate to a 'very fearful' individual, whereas a '- - -' just means the opposite.
+
 
 <center>
 {% include images/image.html imagePath = "../assets/images/img_hex/hex_105_Facets_boxplot_for_web.png" altText =  ""%}
 Scores of 12 HEXACO Facets based on more than 22 000 cleaned-up test results. <br>The middle line of each box indicates the mean. The variation is indicated by the width of the respective box.
 </center><br>
+
+I adjusted the scale for ease of readability: <br>
+'+++' on fearfulness should relate to a 'very fearful' individual, whereas a '- - -' just means the opposite.
 
 Details given on the original site 
 - [Facets on the HEXACO page](http://hexaco.org/scaledescriptions).

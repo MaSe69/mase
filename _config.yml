@@ -33,6 +33,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
+
 
 livereload: true   
 livereload_max_delay: 2

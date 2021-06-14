@@ -37,13 +37,13 @@ Das Bild unten zeigt die Ergebnisse für die Hälfte der Facetten, zwei Facetten
 Diese Ergebnisse basieren auf einem HEXACO Test mit 240 Fragen, welcher **nicht** derjenige ist, den du derzeit als Selbsttest auf hexaco.org durchführen kannst.
 
 
-Ich passte die Skale an, um das Ergebnis einfacher lesen zu können.<br>
-'+++' für Furchtsamkeit sollte naheligenderweise auf eine 'sehr furchtsame' Person zutreffen, und '- - -' das Gegenteil bedeuten.
-
 <center>
 {% include images/image.html imagePath = "../assets/images/img_hex/hex_105_Facets_boxplot_for_web.png" altText =  ""%}
 Werte von 12 HEXACO Facetten von 22 000 bereinigten Test Ergebnissen. <br>Die Mittellinie in jedem Kästchen ist der Mittelwert. Die Streuung ist durch dessen Breite angedeutet.
 </center><br>
+
+Ich passte die Skala der Werte an, um das Ergebnis einfacher ablesen zu können.<br>
+'+++' für Furchtsamkeit sollte naheligenderweise auf eine 'sehr furchtsame' Person zutreffen, und '- - -' das Gegenteil bedeuten.
 
 Details zu den Facetten finden sich auf der HEXACO Seite:
 - [Facets on the HEXACO page](http://hexaco.org/scaledescriptions).
