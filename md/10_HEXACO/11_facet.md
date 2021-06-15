@@ -84,5 +84,28 @@ Assesses one's willingness to compromise and cooperate with others. Low scorers 
 
 Tendency to remain calm rather than to become angry. Low scorers tend to lose their tempers quickly, whereas high scorers have a high threshold for feeling or expressing anger.
 
+### Organization
 
+Tendency to seek order, particularly in one's physical surroundings. Low scorers tend to be sloppy and haphazard, whereas high scorers keep things tidy and prefer a structured approach to tasks
 
+### Diligence
+Tendency to work hard. Low scorers have little self-discipline and are not strongly motivated to achieve, whereas high scorers have a strong "'work ethic" and are willing to exert themselves.
+
+### Perfectionism
+
+Tendency to be thorough and concerned with details. Low scorers tolerate some errors in their work and tend to neglect details, whereas high scorers check carefully for mistakes and potential improvements.
+
+### Aesthetic Appreciation
+
+Assesses one's enjoyment of beauty in art and in nature. Low scorers tend not to become absorbed in works of art or in natural wonders, whereas high scorers have a strong appreciation of various art forms and of natural wonders.
+
+### Inquisitiveness
+
+Tendency to seek information about, and experience with, the natural and human world. Low scorers have little curiosity about the natural or social sciences, whereas high scorers read widely and are interested in travel.
+
+### Creativity
+
+Assesses one's preference for innovation and experiment. Low scorers have little inclination for original thought, whereas high scorers actively seek new solutions to problems and express themselves in art.
+### Unconventionality
+
+Tendency to accept the unusual. 
