@@ -131,28 +131,54 @@ permalink: /facets_DE
 
 ### Aufrichtigkeit
 
-- Deine Hemmung, im Umgang mit anderen Menschen manipulativ oder unehrlich zu sein, um zu einem gewünschten Ergebnis zu gelangen.
-- Deine Hemmung, zu betrügen oder zu stehlen, um weiterzukommen.
+:heavy_plus_sign:
+- Du zeigst dein wahres Gesicht.
+- Wenn du jemanden nicht magst oder dich für eine Seite entschieden hast, dann bleibst du dabei.
+
+:heavy_minus_sign:
+- Du meinst, es sei leichter, Gefallen von anderen zu erhalten, wenn man sich bei Ihnen beliebt macht, z.B. durch Lobhuddelei.
+- Manchmal schlüpst du in die Rolle, welche andere von dir erwarten.
 
 ### Fairness
 
-- Die Bedeutung, welcher eine fairer Umgang miteiander für dich hat.
-- Deine Hemmung, andere auszunutzen oder Korruption zu unterstützen.
+:heavy_plus_sign:
+- Ehrlichkeit ist dir wichtig, selbst dann, wenn es zu deinem Nachteil ist.
+- Du stimmst zu, dass jeder mit dem auskommen muss, was ihm oder ihr zusteht.
 
+:heavy_minus_sign:
+- Bei passender Gelegeneheit bist du bereit, zu stehlen oder zu betrügen.
+- Du stimmst zu, dass man sich vom Leben holen muss, was man braucht.
 
 ### Vermeidung von Gier
 
-Wie gut du mit materieller Genügsamkeit zurecht kommst und auf Dinge wie Luxus, Statussymbole und teures "Spielzeug" verzichten kannst.
+:heavy_plus_sign:
+- Du hast was du brauchst und siehst es nicht ein, warum du irgendwelchen Privilegien nachlaufen solltest.
+
+:heavy_minus_sign:
+- Hohes gesellschaftliche Ansehen ist dir wichtig, z.B. attraktives Aussehen, gezeigter Wohlstand, Macht über andere.
+
 
 ### Bescheidenheit
 
-- Wie bescheiden du dich selbst emfindest.
-- Wie bescheiden du im Umgang mit anderen auftrittst.
-- Die Unwichtigkeit, die du dir selbst im Verhältnis zu anderen beimisst.
+:heavy_plus_sign:
+- Du hälst dich für nichts Besonderes.
+- Es ist dir unangehm, außergewöhnliche Aufmerksamkeit zu erfahren.
 
-Ein niedriger Wert deutet darauf hin, dass du meinst, mehr Respekt als andere oder eine besondere Behandlung verdient zu haben.
+:heavy_minus_sign:
+- Du hälst dich für außergewöhnlich talentiert oder ausgebildet.
+- Du zeigst gerne, was du drauf hast.
+- Es scheint dir angemessen, dass dir andere besonderen Respekt zollen und dich hervorgehoben behandeln.
 
 ### Furchtsamkeit
+
+
+:heavy_plus_sign:
+
+:heavy_minus_sign:
+
+:heavy_plus_sign:
+
+:heavy_minus_sign:
 
 Tendency to experience fear. 
 Low scorers feel little fear of injury and are relatively tough, brave, and insensitive to physical pain, whereas high scorers are strongly inclined to avoid physical harm.&nbsp;
