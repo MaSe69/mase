@@ -96,7 +96,6 @@ Bei der Furchtsamkeit hingegen ist es so, dass die meisten Teilnehmer durchaus b
 
 Die Varianzanalyse bei diesen 240 Fragen ist besonderes hilfreich, um neue Fragen zu entwicklen, welche die unterschiedlichen Persönlichkeitstypen genauer unterscheiden lässt.
 
-
 ### Qualität der Daten
 
 
@@ -108,35 +107,4 @@ Man kann daher die Verfügbarkeit von 22 Tausend Testergebnissen nicht genug wü
 
 Eine Einschränkung ist jedoch, dass es sich bei den Teilnehmern nicht um eine repräsentative Bevölkerung handelt, sondern eher um 'neugierige Internetbenutzer'.
 Allerdings ist dies genau die Bevölkerungsgruppe, die mich interessiert.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
