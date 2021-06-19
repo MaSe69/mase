@@ -18,18 +18,24 @@ permalink: /facets_DE
 
 ## Ehrlichkeit-Demut
 
+Diese Dimension ist die Zusammenfassung von 
+- Aufrichigkeit 
+- Fairness
+- Vermeidung von Gier
+- Bescheidenheit
+
 :heavy_plus_sign:
-- Du hast kein ausgeprägtes Statusdenken.
-- Du bist kaum an Geld oder verschwenderischem Luxus interessiert.
-- Du würdest niemanden manipulieren wollen, um persönlichen Vorteil daraus zu ziehen.
-- Du befolgst für gewöhnlich faire Regeln.
+- Du zeigst dein wahres Gesicht
+- Ehrlichkeit ist dir wichtig, selbst dann, wenn es zu deinem Nachteil ist.
+- Du siehst es nicht ein, warum du dich stressen solltest, um mit irgendwelchen Statussymbolen zu prahlen oder Privilegien zu genießen.
+- Du hälst dich für nichts Besonderes.
+
 
 :heavy_minus_sign:
-- Die wichtigste Person in deinem Leben bist du selbst.
-- Du bist bereit, andere zu manipulieren, um an dein Ziel zu kommen.
-- Du hast wenig Hemmungenen, Regeln für dich zurecht zu biegen oder gar zu brechen.
-- Du weißt andere mit Schmeicheleien ein zu lullen.
-
+- Du machst es dir leichter, Gefallen von anderen zu erhalten, indem du dich bei Ihnen beliebt machst.
+- Bei passender Gelegenheit bist du bereit, zu stehlen oder zu betrügen.
+- Hohes gesellschaftliche Ansehen ist dir wichtig,
+- Es scheint dir angemessen, dass dir andere besonderen Respekt zollen 
 
 ## Emotionalität
 
@@ -136,8 +142,8 @@ permalink: /facets_DE
 - Wenn du jemanden nicht magst oder dich für eine Seite entschieden hast, dann bleibst du dabei.
 
 :heavy_minus_sign:
-- Du meinst, es sei leichter, Gefallen von anderen zu erhalten, wenn man sich bei Ihnen beliebt macht, z.B. durch Lobhuddelei.
 - Manchmal schlüpst du in die Rolle, welche andere von dir erwarten.
+- Du machst es dir leichter, Gefallen von anderen zu erhalten, indem du dich bei Ihnen beliebt machst, z.B. durch Lobhuddelei.
 
 ### Fairness
 
@@ -146,13 +152,14 @@ permalink: /facets_DE
 - Du stimmst zu, dass jeder mit dem auskommen muss, was ihm oder ihr zusteht.
 
 :heavy_minus_sign:
-- Bei passender Gelegeneheit bist du bereit, zu stehlen oder zu betrügen.
+- Bei passender Gelegenheit bist du bereit, zu stehlen oder zu betrügen.
 - Du stimmst zu, dass man sich vom Leben holen muss, was man braucht.
 
 ### Vermeidung von Gier
 
 :heavy_plus_sign:
-- Du hast was du brauchst und siehst es nicht ein, warum du irgendwelchen Privilegien nachlaufen solltest.
+- Du hast, was du brauchst.
+- Du siehst es nicht ein, warum du dich stressen solltest, um mit irgendwelchen Statussymbolen zu prahlen oder Privilegien zu genießen.
 
 :heavy_minus_sign:
 - Hohes gesellschaftliche Ansehen ist dir wichtig, z.B. attraktives Aussehen, gezeigter Wohlstand, Macht über andere.

@@ -8,8 +8,8 @@ permalink: /facets
 
 ##  Honesty-Humility
 
-### Fairness 
 ### Sincerity
+### Fairness 
 ### Greed Avoidance
 ### Modesty
 ## Honesty-Humility
