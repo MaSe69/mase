@@ -49,7 +49,10 @@ Details zu den Facetten finden sich auf der HEXACO Seite:
 - [Facets on the HEXACO page](http://hexaco.org/scaledescriptions).
 
 Eine deutsche Übersetzung von mir gibt es hier: 
-- [Facetten auf Deutsch](facets_DE).
+- [Facetten auf Deutsch](facetten_DE).
+
+Eine deutsche Übersetzung der Dimensionen von mir gibt es hier:
+- [Dimensionen auf Deutsch](dimensions_DE).
 
 Die Testergebnisse bedurften einiger Aufbereitung und Bereiningung. Fast die Hälfte der Fragen ist in 'umgekehrter Richtung' gestellt. Einige Teilnehmer scheinen auch nicht besonders ernsthaft abgestimmt zu haben. Solche Testergebnisse habe ich entfernt.
 
