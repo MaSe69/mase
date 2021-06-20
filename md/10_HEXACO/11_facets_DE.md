@@ -25,31 +25,32 @@ Diese Dimension ist die Zusammenfassung von
 - Bescheidenheit
 
 :heavy_plus_sign:
-- Du zeigst dein wahres Gesicht
+- Du zeigst dein wahres Gesicht.
 - Ehrlichkeit ist dir wichtig, selbst dann, wenn es zu deinem Nachteil ist.
 - Du siehst es nicht ein, warum du dich stressen solltest, um mit irgendwelchen Statussymbolen zu prahlen oder Privilegien zu genießen.
 - Du hälst dich für nichts Besonderes.
 
 
 :heavy_minus_sign:
-- Du machst es dir leichter, Gefallen von anderen zu erhalten, indem du dich bei Ihnen beliebt machst.
+- Du machst dich bei anderen beliebt, um sie dazu zu bringen, etwas für dich zu tun.
 - Bei passender Gelegenheit bist du bereit, zu stehlen oder zu betrügen.
 - Hohes gesellschaftliche Ansehen ist dir wichtig,
-- Es scheint dir angemessen, dass dir andere besonderen Respekt zollen 
+- Es scheint dir angemessen, dass dir andere besonderen Respekt zollen. 
 
 ## Emotionalität
 
 :heavy_plus_sign:
-- Du sorgst dich leicht
-- Du bist leicht aus dem seelischen Gleichgewicht zu bringen.
-- Du bist hoch sensibel
-- Du bist stressanfällig im Vergleich zu anderen
-- Du begegnest anderen mit größerer Empathie zu begegnen.
+- Um eine vermutete Gefahr machst du einen großen Bogen.
+- Du machst dir häufig Sorgen.
+- Zuspruch und Unterstützung von anderen sind dir unentbehrlich.
+- Das Leid anderer Menschen bewegt dich zu tiefst.
+
 
 :heavy_minus_sign:
-- Dich bringt so schnell nichts aus der Ruhe.
-- Du strahlst Gelassenheit aus.
-
+ - Man bezeichnet dich als mutig und als hart im Nehmen.
+ - Du strotzt nur so vor Selbstbewusstsein,
+ - Selbstsicher triffst du deine Entscheidungen.
+ - Das Kommen und Gehen anderer Leute bedeutet dir wenig.
 
 ## Extraversion
 
@@ -134,6 +135,7 @@ Diese Dimension ist die Zusammenfassung von
 || C || [Unconventionality]((#Unconventionality))  || [Außergewöhnlichkeit](#Außergewöhnlichkeit) ||
 
 
+## H
 
 ### Aufrichtigkeit
 
@@ -176,29 +178,60 @@ Diese Dimension ist die Zusammenfassung von
 - Du zeigst gerne, was du drauf hast.
 - Es scheint dir angemessen, dass dir andere besonderen Respekt zollen und dich hervorgehoben behandeln.
 
+## A
 ### Furchtsamkeit
 
-
 :heavy_plus_sign:
+- Schon der Gedanke, dass etwas passieren könnte, bringt dich um den Schlaf.
+- Um eine vermutete Gefahr machst du einen großen Bogen.
 
 :heavy_minus_sign:
-
-:heavy_plus_sign:
-
-:heavy_minus_sign:
-
-Tendency to experience fear. 
-Low scorers feel little fear of injury and are relatively tough, brave, and insensitive to physical pain, whereas high scorers are strongly inclined to avoid physical harm.&nbsp;
+- Wenn dir mal etwas wehtut, ist das kein Ding. Schmerzen gehören dazu und gehen wieder vorbei.
+- Man bezeichnet dich als mutig und als hart im Nehmen.
 
 ### Besorgnis
 
-Tendency to worry in a variety of contexts. Low scorers feel little stress in response to difficulties, whereas high scorers tend to become preoccupied even by relatively minor problems.
+:heavy_plus_sign:
+- Du machst dir häufig Sorgen über Sachen, die sich später als unbegründet herausstellen.
+- Du fühlst dich häufig niedergeschlagen.
+
+:heavy_minus_sign:
+- Du schaust einer Gefahr unerschrocken ins Gesicht und 'packst den Stier bei den Hörnern'. 
+- Du strotzt nur so vor Selbstbewusstsein, denn du hast schon so vieles geschafft.
+- Dich bringt so schnell nichts aus der Ruhe.
+- Du strahlst Gelassenheit aus und wirkst stets wie der 'Fels in der Brandung'.
 
 ### Abhängigkeit
 
-Assesses one's need for emotional support from others. Low scorers feel self-assured and able to deal with problems without any help or advice, whereas high scorers want to share their difficulties with those who will provide encouragement and comfort.
+:heavy_plus_sign:
+- Zuspruch und Unterstützung von anderen sind dir unentbehrlich.
+- Auch bei Kleinigkeiten fühlst du dich besser, wenn du sie besprechen kannst.
+- Wenn es mir schlecht geht, kann ich es nicht vermeiden, dass man mir das ansieht.
+
+:heavy_minus_sign:
+- Was es auch sei, du kommst alleine klar.
+- Selbstsicher triffst du deine Entscheidungen und setzt diese erfolgreich um.
+
 
 ### Verbundenheit
+
+
+:heavy_plus_sign:
+- Das Leid anderer Menschen bewegt dich zu tiefst.
+- Abschied nehmen fällt dir schwer.
+
+:heavy_minus_sign:
+- Das Kommen und Gehen anderer Leute bedeutet dir wenig.
+- Dein Slogan: "Der Starke ist am stärksten allein!"
+- Du verstehst oft nicht, dass andere soviel weinen müssen.
+- Mit Gefühlsduselei kannst du nichts anfangen.
+
+
+:heavy_plus_sign:
+
+:heavy_minus_sign:
+
+
 
 Tendency to feel strong emotional bonds with others. Low scorers feel little emotion when saying good-bye or in reaction to the concerns of others, whereas high scorers feel strong emotional attachments and an empathic sensitivity to the feelings of others.
 
