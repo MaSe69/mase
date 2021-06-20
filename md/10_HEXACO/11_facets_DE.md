@@ -69,16 +69,18 @@ Diese Dimension ist die Zusammenfassung von
 ## Verträglichkeit
 
 :heavy_plus_sign:
-- Du hilfst anderen gerne und erwartest, dass dir geholfen wird.
-- Du hast ein starkes Harmoniebedürfniss.
-- Du kommst mit fast allen Menschen klar und sie mit dir.
-- Konflikten gehst du lieber aus dem Weg.
+- Du vergibst leicht.
+- Du akzeptierst Menschen, wie sie sind.
+- Meist findest du einen Kompromiss, mit dem alle leben können.
+- Dich bringt so schnell nichts aus der Ruhe.
 
 :heavy_minus_sign:
-- Du fühlst dich in Konkurrenz zu anderen.
-- Du hälst Mistrauen anderen gegenüber für angebracht.
-- Du scheust vor einem Streit nicht zurück.
-- Du denkst, dass man an manche Sachen schon mal etwas aggressiver rangehen muss.
+- Du mistraust anderen grundsätzlich.
+- Über die Schwächen anderer spricht du viel.
+- Widerspruch kannst du nicht ertragen.
+- Du regst dich leicht auf und wirst wütend.
+
+
 
 ## Gewissenhaftigkeit
 
@@ -197,8 +199,7 @@ Diese Dimension ist die Zusammenfassung von
 :heavy_minus_sign:
 - Du schaust einer Gefahr unerschrocken ins Gesicht und 'packst den Stier bei den Hörnern'. 
 - Du strotzt nur so vor Selbstbewusstsein, denn du hast schon so vieles geschafft.
-- Dich bringt so schnell nichts aus der Ruhe.
-- Du strahlst Gelassenheit aus und wirkst stets wie der 'Fels in der Brandung'.
+
 
 ### Abhängigkeit
 
@@ -281,20 +282,64 @@ Diese Dimension ist die Zusammenfassung von
 :heavy_minus_sign:
 ### Großmütigkeit
 
-Assesses one's willingness to feel trust and liking toward those who may have caused one harm. Low scorers tend "hold a grudge" against those who have offended them, whereas high scorers are usually ready to trust others again and to re-establish friendly relations after having been treated badly.&nbsp;
+:heavy_plus_sign:
+- Du vergibst leicht.
+- Dein Motto: "Jeder macht mal Fehler."
+- Wieder in ein freundschaftliches Verhältnis zu kommen, ist dir wichtig.
+- Du hilfst anderen gerne und erwartest, dass dir geholfen wird.
+
+
+:heavy_minus_sign:
+- Du mistraust anderen grundsätzlich.
+- Du hegst Groll gegenüber einigen Mitmenschen.
+- Für persönliche Kränkungen sinnst du auf Rache.
+- Du denkst, dass man an manche Sachen schon mal etwas aggressiver rangehen muss.
+- Du scheust auch vor einem Streit nicht zurück.
 
 ### Sanftmut
 
-Tendency to be mild and lenient in dealings with other people. Low scorers tend to be critical in their evaluations of others, whereas high scorers are reluctant to judge others harshly
+:heavy_plus_sign:
+- Du akzeptierst Menschen, wie sie sind.
+- Du kommst mit fast allen Menschen klar und sie mit dir.
+- In jedem Menschen erkennst du auch etwas Gutes.
+- Es ist dir wichtig, die Gefühle anderer nicht zu verletzen.
+- Du hast ein starkes Harmoniebedürfnis.
+- Konflikten gehst du lieber aus dem Weg.
+
+:heavy_minus_sign:
+- Du findest Fehler in allem und jedem.
+- Du tadelst gerne.
+- Über die Schwächen anderer spricht du viel und mit scharfer Zunge.
+- Es macht dir nichts aus, jemanden zu beschämen.
+
 
 ### Anpassungsfähigkeit 
 
-Assesses one's willingness to compromise and cooperate with others. Low scorers are seen as stubborn and are willing to argue, whereas high scorers avoid arguments and accommodate others' suggestions, even when these may be unreasonable.&nbsp;
+:heavy_plus_sign:
+- Du setzt dich mit anderen Meinungen selbst dann auseinander, wenn sie dir nicht plausibel vorkommen.
+- Meist findest du einen Kompromiss, mit dem alle leben können.
+- Du setzt auch die Wünsche anderer erfolgreich um.
+- Man nennt dich pragmatisch oder opportunistisch.
+
+:heavy_minus_sign:
+- Du hast deinen Plan und jede Abweichung davon ärgert dich gewaltig.
+- Widerspruch kannst du nicht ertragen.
+- Andere schaffen es fast nie, dich zufrieden zu stellen.
+- Man nennt dich prinzipientreu oder stur.
 
 ### Geduld
 
-Tendency to remain calm rather than to become angry. Low scorers tend to lose their tempers quickly, whereas high scorers have a high threshold for feeling or expressing anger.
+:heavy_plus_sign:
+- Dich bringt so schnell nichts aus der Ruhe.
+- Dein Motto: "Dinge sind schon ok so, wie sie sind. Wenn nicht, dann abwarten und Tee trinken."
+- Du strahlst Gelassenheit aus und wirkst wie der 'Fels in der Brandung'.
+- Du verpasst schon mal die eine oder andere gute Gelegenheit.
 
+:heavy_minus_sign:
+- Du fühlst dich in Konkurrenz zu anderen.
+- Du regst dich leicht auf und wirst wütend.
+- Manchmal 'fährst du aus der Haut', tobst und schreist.
+- Du hast manchmal unerwartete, schnelle Erfolge.
 
 ### Organisiertheit
 
