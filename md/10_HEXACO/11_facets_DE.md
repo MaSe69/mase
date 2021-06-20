@@ -85,14 +85,18 @@ Diese Dimension ist die Zusammenfassung von
 ## Gewissenhaftigkeit
 
 :heavy_plus_sign:
+- Dir ist es wichtig, dass alles sauber ist und alle Dinge an ihrem Platz sind.
+- Neuen Aufgaben widmest du dich unverzüglich und ruhst nicht eher, bis sie erfolgreich erledigt sind.
+- Du hörst nicht eher auf, bis auch wirklich alles richtig ist.
 - Du hast dich stets unter Kontrolle.
-- Du bist dir deiner Verantwortung bewusst und versucht dementsprechend zu handeln
-- Du hast berufllichen Erfolg, da du zielstrebig bist.
+
 
 :heavy_minus_sign:
-- Du lebst unbekümmert.
-- Du handelst spontan.
-- Durch Nachlässigkeit oder Leichtsinn ist dir schon mancher Fehler passiert.
+- Du tust nur das Notwendigste.
+- Dein selbstgesetztes Maß an Ordentlichkeit erreichst du selten. 
+- Für dich ist es ausreichend, wenn die grobe Richtung stimmt.
+- Du gibst deinen inneren Wünschen und Stimmungen nach.
+
 
 ## Offenheit für Neues
 
@@ -254,7 +258,7 @@ Diese Dimension ist die Zusammenfassung von
 :heavy_plus_sign:
 - Für dich kommt nur ein Beruf in Frage, bei dem du mit Menschen zu tun hast.
 - Deine Freizeit verbringst du mit deinen Freunden.
-- Dein Netzwerk ist riesig.
+- Dein Netzwerk ist scheint unendlich zu sein.
 
 :heavy_minus_sign:
 - Du arbeitest möglichst für dich.
@@ -277,9 +281,7 @@ Diese Dimension ist die Zusammenfassung von
 - Du bist eher missmutig bei der Sache.
 
 # A
-:heavy_plus_sign:
 
-:heavy_minus_sign:
 ### Großmütigkeit
 
 :heavy_plus_sign:
@@ -341,22 +343,68 @@ Diese Dimension ist die Zusammenfassung von
 - Manchmal 'fährst du aus der Haut', tobst und schreist.
 - Du hast manchmal unerwartete, schnelle Erfolge.
 
-### Organisiertheit
+# C
 
-Tendency to seek order, particularly in one's physical surroundings. Low scorers tend to be sloppy and haphazard, whereas high scorers keep things tidy and prefer a structured approach to tasks
+:heavy_plus_sign:
+
+:heavy_minus_sign:
+
+### Organisationstalent
+
+:heavy_plus_sign:
+- Dir ist es wichtig, dass alles sauber ist und alle Dinge an ihrem Platz sind.
+- Hierzu erledigst du alles Notwendige zeitnah.
+- Ordnung zu schaffen, bereitet dir eine gewisse Freude.
+- Für alles, was zu erledigen ist, hast du einen ausreichenden Plan im Kopf.
+- Du arbeitest effektiv und effizient.
+
+:heavy_minus_sign:
+- Ordentlichkeit und Sauberkeit ist dir nicht so wichtig.
+- Dein selbstgesetztes Maß an Ordentlichkeit erreichst du selten. 
+- Du schiebst Unangenhmes eher auf.
+- Selten machst du dir Gedanken darüber, was du wann am besten erledigst.
 
 ### Fleiß
 
-Tendency to work hard. Low scorers have little self-discipline and are not strongly motivated to achieve, whereas high scorers have a strong "'work ethic" and are willing to exert themselves.
+:heavy_plus_sign:
+- Neuen Aufgaben widmest du dich unverzüglich und ruhst nicht eher, bis sie erfolgreich erledigt sind.
+- Du hast einen hohen Anspruch an die Qualität deiner Arbeit.
+- Auch an einem schlechten Tag ziehst du dein Arbeitspensum diszipliniert durch.
+- Während andere das Leben genießen, malochst du - oft ohne zusätzliche Anerkennung dafür zu bekommen.
+
+:heavy_minus_sign:
+- Am liebsten hängst du herum.
+- Du tust nur das Notwendigste.
+- Bei aufkommender Unlust oder Schwierigkeiten hörst du mit der Sache auf.
+- Du lebst unbekümmert.
+
 
 ### Perfektionismus
 
-Tendency to be thorough and concerned with details. Low scorers tolerate some errors in their work and tend to neglect details, whereas high scorers check carefully for mistakes and potential improvements.
+:heavy_plus_sign:
+- Du hast einen Blick für Details und Stimmigkeit ist dir wichtig.
+- Du hörst nicht eher auf, bis auch wirklich alles richtig ist.
 
-### Umsichtkeit
+:heavy_minus_sign:
+- Für dich ist es ausreichend, wenn die grobe Richtung stimmt. Der Rest ist egal.
+- Motto: "Perfekt ist der Feind von fertig". 
+- Dir fehlt die Zeit und der Nerv, dich um Kleinigkeiten zu kümmern.
 
-Tendency to deliberate carefully and to inhibit impulses. Low scorers act on impulse and tend not to consider consequences, whereas high scorers consider their options carefully and tend to be cautious and self-controlled
+### Impulskontrolle
 
+:heavy_plus_sign:
+- Du hast dich stets unter Kontrolle.
+- Du bist dir deiner Verantwortung bewusst und versucht dementsprechend zu handeln.
+- Du hast deinen beruflichen Erfolg zum Teil deiner Zielstrebigkeit zu verdanken.
+
+
+:heavy_minus_sign:
+- Du gibst deinen inneren Wünschen und Stimmungen nach.
+- Du hälst dich für einen spontanen Typen und entscheidest schnell.
+- Du kannst später oft nicht erklären, warum du etwas getan hast.
+- Durch Nachlässigkeit oder Leichtsinn ist dir schon mancher Fehler passiert.
+
+# O
 
 ### Sinn für Schönheit
 
