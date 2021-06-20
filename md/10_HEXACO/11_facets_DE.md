@@ -101,14 +101,16 @@ Diese Dimension ist die Zusammenfassung von
 ## Offenheit für Neues
 
 :heavy_plus_sign:
-- Du investiert Zeit, um deine Neugier zu befriedigen.
-- Du hinterfragst viel.
-- Du bildest dir ein eigenes Urteil
-- Du erprobst Neues.
+- In Kunstwerken kannst du vollkommen aufgehen
+- Fremdes und Überraschendes reizen dich.
+- Neue Ideen sprudeln nur so aus dir heraus.
+- Du setzt dich mit ungewöhnlichen oder gar radikalen Ideen auseinander.
 
 :heavy_minus_sign:
-
-
+- Die Gedanken oder Gefühle anderer nach zu vollziehen ist dir eher fremd.
+- Du weißt genug, um durchs Leben zu kommen.
+- Du verlässt dich darauf, dass man dir richtig beigebracht hat, wie man Dinge am besten tut.
+- Du ziehst es vor, als normal zu gelten.
 
 
 # Facetten
@@ -345,9 +347,6 @@ Diese Dimension ist die Zusammenfassung von
 
 # C
 
-:heavy_plus_sign:
-
-:heavy_minus_sign:
 
 ### Organisationstalent
 
@@ -408,19 +407,50 @@ Diese Dimension ist die Zusammenfassung von
 
 ### Sinn für Schönheit
 
-Assesses one's enjoyment of beauty in art and in nature. Low scorers tend not to become absorbed in works of art or in natural wonders, whereas high scorers have a strong appreciation of various art forms and of natural wonders.
+:heavy_plus_sign:
+- In Kunstwerken kannst du vollkommen aufgehen, z.B. in Musik oder in Darbietungen.
+- Du hast schon viel Zeit aufgewendet, um die Schönheiten der Erde genießen zu können.
+- Du bist auf unermüdlicher Suche nach schönem Neuen.
+
+:heavy_minus_sign:
+- Die Gedanken oder Gefühle anderer nach zu vollziehen ist dir eher fremd.
+- Es zieht dich nicht in ein Museum oder sonstwohin, um anderer Leute Kunstwerke zu bestaunen.
+- Bisher hat es noch kein Sonnenuntergang geschafft, dass du stehen bleibst, um ihn zu bestaunen.
 
 ### Wissbegierde
 
-Tendency to seek information about, and experience with, the natural and human world. Low scorers have little curiosity about the natural or social sciences, whereas high scorers read widely and are interested in travel.
+:heavy_plus_sign:
+- Fremdes und Überraschendes reizen dich.
+- Du investiert Zeit, um deine Neugier zu befriedigen.
+
+:heavy_minus_sign:
+- Du weißt genug, um durchs Leben zu kommen.
+- Fremdworte und Fachjargon schrecken dich eher ab.
+- Du meidest Geschichtliches oder Politik.
 
 ### Kreativität
 
-Assesses one's preference for innovation and experiment. Low scorers have little inclination for original thought, whereas high scorers actively seek new solutions to problems and express themselves in art.
+:heavy_plus_sign:
+- Du hast eine lebendige Fantasie.
+- Neue Ideen sprudeln nur so aus dir heraus.
+- Du hinterfragst viel.
+- Du schaffst Dinge auch ohne direkten Nutzen.
 
+:heavy_minus_sign:
+- Du verlässt dich darauf, dass man dir richtig beigebracht hat, wie man Dinge am besten tut.
+- Deine letzte 'großartige Idee' ist schon länger her.
+- Du verbringst wenig Zeit mit tüfteln.
 
 ### Außergewöhnlichkeit
 
 Tendency to accept the unusual. Low scorers avoid eccentric or nonconforming persons, whereas high scorers are receptive to ideas that might seem strange or radical.
 
+:heavy_plus_sign:
+- Du setzt dich mit ungewöhnlichen oder gar radikalen Ideen auseinander.
+- Du suchst eher den Kontakt zu außergewöhnlichen Menschen.
+- Es ist für dich ok, selbst als ungewöhnlich oder gar ekzentrisch zu gelten. 
+- Selbst bei konkreten Nachteilen stehst du zu deiner Außergewöhnlichkeit.
 
+:heavy_minus_sign:
+- Vorschläge, dich außergewöhnlich zu geben, kommen bei dir nicht gut an.
+- Du ziehst es vor, als normal zu gelten.
