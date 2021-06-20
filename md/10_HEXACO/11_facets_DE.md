@@ -124,22 +124,22 @@ Diese Dimension ist die Zusammenfassung von
 || E || [Anxiety]((#greed-avoidance))  || [Besorgnis](#besorgnis) ||
 || E || [Dependence]((#modesty))  || [Abhängigkeit](#abhängigkeit) ||
 || E || [Sentimentality]((#sentimentality))  || [Verbundenheit](#verbundenheit) ||
-|| X || [Social Self-Esteem]((#fairness))  || [Selbstbewusstsein](#furchtsamkeit) ||
-|| X || [Social Boldness]((#greed-avoidance))  || [Zwischenmenschlicher Mut](#besorgnis) ||
-|| X || [Sociability]((#modesty))  || [Geselligkeit](#abhängigkeit) ||
-|| X || [Liveliness]((#sentimentality))  || [Lebendigkeit](#verbundenheit) ||
-|| A || [Forgiveness]((#forgiveness))  || [Großmütigkeit](#furchtsamkeit) ||
-|| A || [Gentleness]((#gentleness))  || [Sanftmut](#abhängigkeit) ||
+|| X || [Social Self-Esteem]((#fairness))  || [Selbstbewusstes Auftreten](#selbstbewusstes-auftreten) ||
+|| X || [Social Boldness]((#greed-avoidance))  || [Zwischenmenschlicher Mut](#zwischenmenschlicher-mut) ||
+|| X || [Sociability]((#modesty))  || [Geselligkeit](#geselligkeit) ||
+|| X || [Liveliness]((#sentimentality))  || [Lebendigkeit](#lebendigkeit) ||
+|| A || [Forgiveness]((#forgiveness))  || [Großmütigkeit](#großmütigkeit) ||
+|| A || [Gentleness]((#gentleness))  || [Sanftmut](#sanftmut) ||
 || A || [Flexibility]((#flexibility))  || [Anpassungsfähigkeit](#anpassungsfähigkeit) ||
 || A || [Patience]((#patience))  || [Geduld](#geduld) ||
-|| C || [Organization]((#Organization))  || [Gewissenhaftigkeit](#Gewissenhaftigkeit) ||
-|| C || [Diligence]((#Diligence))  || [Fleiß](#Fleiß) ||
-|| C || [Perfectionism]((#Perfectionism))  || [Perfektionismus](#Perfektionismus) ||
-|| C || [Prudence]((#Prudence))  || [Umsichtkeit](#Umsichtkeit) ||
-|| O || [Aesthetic Appreciation]((#Aesthetic Appreciation))  || [Sinn für Schönheit](#Sinn für Schönheit) ||
-|| C || [Inquisitiveness]((#Inquisitiveness))  || [Wissbegierde](#Wissbegierde) ||
-|| C || [Creativity]((#Creativity))  || [Kreativität](#kreativität) ||
-|| C || [Unconventionality]((#Unconventionality))  || [Außergewöhnlichkeit](#Außergewöhnlichkeit) ||
+|| C || [Organization]((#Organization))  || [Gewissenhaftigkeit](#gewissenhaftigkeit) ||
+|| C || [Diligence]((#Diligence))  || [Fleiß](#fleiß) ||
+|| C || [Perfectionism]((#Perfectionism))  || [Perfektionismus](#perfektionismus) ||
+|| C || [Prudence]((#Prudence))  || [Impulskontrolle](#impulskontrolle) ||
+|| O || [Aesthetic Appreciation]((#Aesthetic Appreciation))  || [Sinn für Schönheit](#sinn-für-schönheit) ||
+|| O || [Inquisitiveness]((#Inquisitiveness))  || [Wissbegierde](#wissbegierde) ||
+|| O || [Creativity]((#Creativity))  || [Kreativität](#kreativität) ||
+|| O || [Unconventionality]((#Unconventionality))  || [Außergewöhnlichkeit](#außergewöhnlichkeit) ||
 
 
 ## H
