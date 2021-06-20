@@ -55,17 +55,16 @@ Diese Dimension ist die Zusammenfassung von
 ## Extraversion
 
 :heavy_plus_sign:
-- Du hälst dich gerne in Gegenwart anderer auf
-- Zwischenmenschliche Kontakte werden groß geschrieben.
-- Das Netzwerken fällt dir ausgesprochen leicht.
-- Du scheust auch nicht große Gruppen und auf Versammlungen.
+- Du redest viel und lachst laut.
+- Selbst wildfremde Menschen sprichst du an, damit sie etwas für dich tun.
+- Deine Freizeit verbringst du mit deinen Freunden.
+- Den ganzen Tag lang bist du voller Tatendrang.
 
 :heavy_minus_sign:
-- Du hast keine Probleme damit, alleine zu sein.
-- Du arbeitest möglichst für dich.
-- Du schätzt die Unabhängigkeit von anderen.
-- Bei deinen Kontakten bist du wählerisch.
-- Du bezeichnest dich eher als scheu oder schüchtern.
+- Meine Gefühle behälst du für dich.
+- In Gesellschaft haltest du dich eher im Hintergrund.
+- Am liebsten bist du alleine.
+- Du ermüdest schnell.
 
 ## Verträglichkeit
 
@@ -206,7 +205,7 @@ Diese Dimension ist die Zusammenfassung von
 :heavy_plus_sign:
 - Zuspruch und Unterstützung von anderen sind dir unentbehrlich.
 - Auch bei Kleinigkeiten fühlst du dich besser, wenn du sie besprechen kannst.
-- Wenn es mir schlecht geht, kann ich es nicht vermeiden, dass man mir das ansieht.
+- Wenn es dir schlecht geht, kann du dies nicht verstecken.
 
 :heavy_minus_sign:
 - Was es auch sei, du kommst alleine klar.
@@ -226,32 +225,60 @@ Diese Dimension ist die Zusammenfassung von
 - Du verstehst oft nicht, dass andere soviel weinen müssen.
 - Mit Gefühlsduselei kannst du nichts anfangen.
 
+# X
+
+### Selbstbewusstes Auftreten
 
 :heavy_plus_sign:
+- Du redest viel und lachst laut.
+- Jeder darf wissen, wenn du dich gerade über etwas aufregst.
 
 :heavy_minus_sign:
-
-
-
-Tendency to feel strong emotional bonds with others. Low scorers feel little emotion when saying good-bye or in reaction to the concerns of others, whereas high scorers feel strong emotional attachments and an empathic sensitivity to the feelings of others.
-
-### Selbstbewusstsein
-
-Tendency to have positive self-regard, particularly in social contexts. High scorers are generally satisfied with themselves and consider themselves to have likable qualities, whereas low scorers tend to have a sense of personal worthlessness and to see themselves as unpopular.
+- Du sprichst wenig und wenn, dann ist deine Stimme eher leise.
+- Deine Gefühle behälst du für dich.
 
 ### Zwischenmenschlicher Mut
 
-Assesses one's comfort or confidence within a variety of social situations. Low scorers feel shy or awkward in positions of leadership or when speaking in public, whereas high scorers are willing to approach strangers and are willing to speak up within group settings.
+:heavy_plus_sign:
+- Selbst wildfremde Menschen sprichst du an, damit sie etwas für dich tun.
+- Deine Mottos: "Die Party beginnt, wenn du eintriffst!" und "Wo ist das Mikrophon?"
+- Du bist dir sicher, Führungsqualitäten zu besitzen.
+
+:heavy_minus_sign:
+- In Gesellschaft hälst du mich eher im Hintergrund.
+- Du drückst dich davor, vor anderen Leuten zu sprechen.
 
 ### Geselligkeit
 
-Assesses a tendency to enjoy conversation, social interaction, and parties. Low scorers generally prefer solitary activities and do not seek out conversation, whereas high scorers enjoy talking, visiting, and celebrating with others.&nbsp;
+:heavy_plus_sign:
+- Für dich kommt nur ein Beruf in Frage, bei dem du mit Menschen zu tun hast.
+- Deine Freizeit verbringst du mit deinen Freunden.
+- Dein Netzwerk ist riesig.
+
+:heavy_minus_sign:
+- Du arbeitest möglichst für dich.
+- Am liebsten bist du alleine.
+- Du schätzt deine Unabhängigkeit von anderen.
+- Bei deinen Kontakten bist du wählerisch.
+- Du bezeichnest dich eher als scheu oder schüchtern.
+- Kaum jemand weiß, wie du wirklich bist.
 
 ### Lebendigkeit
 
-Assesses one's typical enthusiasm and energy. Low scorers tend not to feel especially cheerful or dynamic, whereas high scorers usually experience a sense of optimism and high spirits.
+:heavy_plus_sign:
+- Den ganzen Tag lang bist du voller Tatendrang.
+- Du bist von unerschöpflicher Energie.
+- Du hast fast immer gute Laune.
 
+:heavy_minus_sign:
+- Du ermüdest schnell.
+- So richtig Spass macht dir das Ganze nicht.
+- Du bist eher missmutig bei der Sache.
 
+# A
+:heavy_plus_sign:
+
+:heavy_minus_sign:
 ### Großmütigkeit
 
 Assesses one's willingness to feel trust and liking toward those who may have caused one harm. Low scorers tend "hold a grudge" against those who have offended them, whereas high scorers are usually ready to trust others again and to re-establish friendly relations after having been treated badly.&nbsp;
