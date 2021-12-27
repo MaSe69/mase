@@ -1,0 +1,11 @@
+{% capture imagePath %}
+{% endcapture %}
+{% capture altHeight %}
+{% endcapture %}
+{% capture altText %}
+{% endcapture %}
+
+
+<div class="page_image_container">
+    <img src="{{ site.baseUrl }}{{ include.imagePath  }}" height="{{ include.altHeight}}" alt="{{ include.altText}}">
+</div>
