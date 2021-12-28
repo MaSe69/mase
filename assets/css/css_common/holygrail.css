@@ -20,8 +20,7 @@
   display: flex;
   padding: 15px 0 10px 0;
   border-bottom: 1.52px solid var(--blue20);
-  background-color: whitesmoke;
-  background-color: var(--blue10);
+  background-color: var(--blue20);
 }
 
 .HolyGrail_login {

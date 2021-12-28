@@ -6,31 +6,31 @@ permalink: /facetten_DE
 
 # Facetten
 
-|| Abbreviation || English || Deutsch ||
-|| H || [Sincerity](#sincerity) || [Aufrichtigkeit](#aufrichtigkeit) ||
-|| H || [Fairness]((#fairness))  || [Fairness](#fairness) ||
-|| H || [Greed Avoidance]((#greed-avoidance))  || [Vermeidung von Gier](#vermeidung-von-gier) ||
-|| H || [Modesty]((#odesty))  || [Bescheidenheit](#bescheidenheit) ||
-|| E || [Fearfulness]((#fairness))  || [Furchtsamkeit](#furchtsamkeit) ||
-|| E || [Anxiety]((#greed-avoidance))  || [Besorgnis](#besorgnis) ||
-|| E || [Dependence]((#modesty))  || [Abhängigkeit](#abhängigkeit) ||
-|| E || [Sentimentality]((#sentimentality))  || [Verbundenheit](#verbundenheit) ||
-|| X || [Social Self-Esteem]((#fairness))  || [Selbstbewusstes Auftreten](#selbstbewusstes-auftreten) ||
-|| X || [Social Boldness]((#greed-avoidance))  || [Zwischenmenschlicher Mut](#zwischenmenschlicher-mut) ||
-|| X || [Sociability]((#modesty))  || [Geselligkeit](#geselligkeit) ||
-|| X || [Liveliness]((#sentimentality))  || [Lebendigkeit](#lebendigkeit) ||
-|| A || [Forgiveness]((#forgiveness))  || [Großmütigkeit](#großmütigkeit) ||
-|| A || [Gentleness]((#gentleness))  || [Sanftmut](#sanftmut) ||
-|| A || [Flexibility]((#flexibility))  || [Anpassungsfähigkeit](#anpassungsfähigkeit) ||
-|| A || [Patience]((#patience))  || [Geduld](#geduld) ||
-|| C || [Organization]((#Organization))  || [Gewissenhaftigkeit](#gewissenhaftigkeit) ||
-|| C || [Diligence]((#Diligence))  || [Fleiß](#fleiß) ||
-|| C || [Perfectionism]((#Perfectionism))  || [Perfektionismus](#perfektionismus) ||
-|| C || [Prudence]((#Prudence))  || [Impulskontrolle](#impulskontrolle) ||
-|| O || [Aesthetic Appreciation]((#Aesthetic Appreciation))  || [Sinn für Schönheit](#sinn-für-schönheit) ||
-|| O || [Inquisitiveness]((#Inquisitiveness))  || [Wissbegierde](#wissbegierde) ||
-|| O || [Creativity]((#Creativity))  || [Kreativität](#kreativität) ||
-|| O || [Unconventionality]((#Unconventionality))  || [Außergewöhnlichkeit](#außergewöhnlichkeit) ||
+| Abbreviation | English | Deutsch |
+| H | [Sincerity](#sincerity) | [Aufrichtigkeit](#aufrichtigkeit) |
+| H | [Fairness]((#fairness))  | [Fairness](#fairness) |
+| H | [Greed Avoidance]((#greed-avoidance))  | [Vermeidung von Gier](#vermeidung-von-gier) |
+| H | [Modesty]((#odesty))  | [Bescheidenheit](#bescheidenheit) |
+| E | [Fearfulness]((#fairness))  | [Furchtsamkeit](#furchtsamkeit) |
+| E | [Anxiety]((#greed-avoidance))  | [Besorgnis](#besorgnis) |
+| E | [Dependence]((#modesty))  | [Abhängigkeit](#abhängigkeit) |
+| E | [Sentimentality]((#sentimentality))  | [Verbundenheit](#verbundenheit) |
+| X | [Social Self-Esteem]((#fairness))  | [Selbstbewusstes Auftreten](#selbstbewusstes-auftreten) |
+| X | [Social Boldness]((#greed-avoidance))  | [Zwischenmenschlicher Mut](#zwischenmenschlicher-mut) |
+| X | [Sociability]((#modesty))  | [Geselligkeit](#geselligkeit) |
+| X | [Liveliness]((#sentimentality))  | [Lebendigkeit](#lebendigkeit) |
+| A | [Forgiveness]((#forgiveness))  | [Großmütigkeit](#großmütigkeit) |
+| A | [Gentleness]((#gentleness))  | [Sanftmut](#sanftmut) |
+| A | [Flexibility]((#flexibility))  | [Anpassungsfähigkeit](#anpassungsfähigkeit) |
+| A | [Patience]((#patience))  | [Geduld](#geduld) |
+| C | [Organization]((#Organization))  | [Gewissenhaftigkeit](#gewissenhaftigkeit) |
+| C | [Diligence]((#Diligence))  | [Fleiß](#fleiß) |
+| C | [Perfectionism]((#Perfectionism))  | [Perfektionismus](#perfektionismus) |
+| C | [Prudence]((#Prudence))  | [Impulskontrolle](#impulskontrolle) |
+| O | [Aesthetic Appreciation]((#Aesthetic Appreciation))  | [Sinn für Schönheit](#sinn-für-schönheit) |
+| O | [Inquisitiveness]((#Inquisitiveness))  | [Wissbegierde](#wissbegierde) |
+| O | [Creativity]((#Creativity))  | [Kreativität](#kreativität) |
+| O | [Unconventionality]((#Unconventionality))  | [Außergewöhnlichkeit](#außergewöhnlichkeit) |
 
 
 ## H

@@ -13,8 +13,8 @@
 }
 
 body {
-  font-size: 22px;
-  line-height: 28px;
+  font-size: 16px;
+  line-height: 20px;
   color: black;
   text-align: justify;
   font-family: Arial, Helvetica, sans-serif;
@@ -89,7 +89,7 @@ a:hover, a:active {
   text-decoration: underline;
 }
 
-  blockquote {
+  /* blockquote {
     background-color: #ebebf3;
     page-break-inside: auto;
     page-break-inside: inherit ;
@@ -103,4 +103,49 @@ a:hover, a:active {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-left: 8px solid var(--blue10);
+} */
+
+
+blockquote {
+    background-color: #ebebf3;
+    page-break-inside: auto;
+    page-break-inside: inherit ;
+    width: 90%;
+    margin: 5px auto 5px 60px;
+    padding: 10px 30px 10px 40px;
+    font-size: 16px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-left: 8px solid var(--blue10);
+}
+
+
+/*  Table */
+table {
+  width: 95%;
+  border: 2px solid var(--blue80); 
+  padding:10px;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*  Table Header */
+th {
+  height: 36px;
+  border: 2px solid var(--blue90); 
+  padding:10px;
+  background-color: var(--blue50);
+  text-align: center;
+  color: var(--blue10);
+}
+
+/*  Table Body */
+td {
+  color: var(--blue90);
+  border: 1px solid  var(--blue80); 
+  padding:5px  20px 5px 20px;
+  text-align: left; 
+  /* text-align: right;  */
 }

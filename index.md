@@ -4,78 +4,62 @@ title: drmaseway
 permalink: /index
 ---
 
-# On Personality
+# About 'Personality'
+
+Personality has become a popular topic again, possibly because there are so many free personality tests available on the internet. <br>
+
+I did a research on such tests available in English or German - and ended up with a clear favorite: HEXACO.
+<br>
+The HEXACO test describes your personality in a well-established scientific framework. Most importantly, the current version of the HEXACO tests provides you with the most useful result that I found so far.
+<br>
 
 
-Free personality tests have become increasingly popular. Which one to take? How to interpret your results?
+## Personality Test - HEXACO
 
-You should choose a good personality test, like HEXACO, because it describes your personality in a scientific framework.<br>
-You can then compare your personal results with those of others. In turn, others can better assess your strengths.
+You can take the HEXACO test here:
+- [HEXACO-PI-R test on hexaco.org](http://hexaco.org/hexaco-online/)
 
-May I recommend to do the HEXACO test on the respective page, get your result and background info here
+In about an hour you will have completed the 100+ questions. The site and the PDF with your results contains information about the 'dimensions' and 'facets' used in the test.
 
-- [Take the HEXACO-PI-R test on hexaco.org](http://hexaco.org/hexaco-online/)
+After having received your results, you might still want to have some additional information that supports to follow-up actions. 
+As a data scientist, I analyzed anonymous HEXACO answers. This helped me to deepen my understanding of the facets which are crucial to such personality tests. 
 
-In addition, you get here 
-- Analysis by a data scientist on how others voted on the HEXACO facets.
-- Thoughts on the results of the 'HEXACO 22.000+ answers sample'.
-- Ideas on how to continue from such a description of personality.
+Find some of my findings in English here:
+- :us: [Analysis of HEXACO answers](HEXACO) 
 
-Please continue reading here:
-- :us: [HEXACO on this site](HEXACO) 
+Particularly surprising were some of the averages which made me think: "Well, the others are quite different than I expected them to be." 
 
-As some of the content is meant for a German audience, some pages are in German. 
 
-- :de: [HEXACO on this site](HEXACO_DE)
+## Personality Test - HEXACO - In German
+
+You might expect German-native speakers to take personality tests in German language. If you do so, you might find that the English words whose exact meaning you are not quite sure of are replaced by Latin words which give you the same trouble. For topics like 'extroversion', it does not help you to struggle with a German test result. 
+
+I would recommend anybody to stick with the English HEXACO-version. The 100+ questions are sufficiently easy to understand and to answer.
+
+For interpreting the results, I offer the following English-German translation pages:
+- :de: [HEXACO Dimensions - German](HEXACO_DE)
+- :de: [HEXACO Facets - German Lookup table](facetten_DE)
+
+
+
+## Deep Dive In Personality
+
+
+
+
 
 
 My slogan:
 >
-    Personality traits are double-edged swords, they can both help and hurt you.
+    You should be aware of your personality to make the best out of it.
 
 
-# Other Social Topics Of My Interest
+# Deep Dive In Flexible Groups
 
-## On Teams
-
-Having covered personality, is a good starting point to understand how successful teams should be staffed or transformed.
-
-Composing flexibly new groups is a decisive human feature.
-I looked in some depth how such groups are formed and how these groups are kept together.
 Which is this social and how does it work?
 
 - [On Teams](teams)
 
-
-## Leadership Theory
-
-Teams typically come along with some kind of leadership, which might be very weak or extraordinarily strong.<br>
-What does it take for an individual to become a leader?
-
-
-- [Leadership Theory](leadership_theory)
-
-
-
-## History
-
-In the global, digital world, we are enabled to build big, strong teams to go for ambitious goals.<br>
-When deciding about where we want to go to, we always should have an eye on where we came from.
-The way history is told makes a key difference on our future ambitions.
-
-The history topic is currently developed in German language:
-- [Entscheidende Phasen der Geschichte](history_de) 
-
-When ready, parts of it are planned to go here:
-- [Decisive Phases in Human History](history) 
-
-## Painting and Tattoo Design
-
-Inspired by Bob Ross, I started with painting may years ago.
-Later I switched to digital arts using the software Krita.
-I then discovered that tattoos have played a significant role in both personality and team building.
-
-- [Painting and Tattoo Design](https://mase69.github.io/tatmars/)
 
 
 #  Dataframes
@@ -87,10 +71,6 @@ Beautiful dataframes lead to deep and surprising insights. You can find my intro
 
 - [beautifuldataframes.com](https://beautifuldataframes.com)
 
-
-A much searched for topic is how to compare two lists. I once wrote up a working solution for both Excel and Python that is still up-to-date and has moved to here here:
-
-- [Compare Two Lists](https://beautifuldataframes.com/comparetwolists )
 
 
 My slogan:
