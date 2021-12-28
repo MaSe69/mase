@@ -124,6 +124,7 @@ blockquote {
 /*  Table */
 table {
   width: 95%;
+  width: 65%;
   border: 2px solid var(--blue80); 
   padding:10px;
   border-collapse: collapse;

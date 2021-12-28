@@ -4,7 +4,7 @@ title: drmaseway
 permalink: /index
 ---
 
-# About 'Personality'
+# Deep Dives In 'Personality'
 
 Personality has become a popular topic again, possibly because there are so many free personality tests available on the internet. <br>
 
@@ -37,14 +37,29 @@ You might expect German-native speakers to take personality tests in German lang
 I would recommend anybody to stick with the English HEXACO-version. The 100+ questions are sufficiently easy to understand and to answer.
 
 For interpreting the results, I offer the following English-German translation pages:
-- :de: [HEXACO Dimensions - German](HEXACO_DE)
-- :de: [HEXACO Facets - German Lookup table](facetten_DE)
+- :de: [HEXACO Antworten Analyse](HEXACO_DE)
+- :de: [HEXACO Dimensionen](dimensions_DE)
+- :de: [HEXACO Facetten](facetten_DE)
 
 
+Die HEXACO-Facetten Seite fasst insbesondere Antworten so zusammen, dass ihre Bedeutung für die jeweiligen Extreme klarer wird.
 
-## Deep Dive In Personality
+
+## Advanced Topics On Personality
+
+After having made use of personality tests like HEXACO, questions remain.
+- Is there more to be known about personality?
+- How can I use my knowledge about my personality for a happier life?
+- Can I change my personality?
 
 
+After having spent quite some time on this topic - based on results by Prof. R. M. Sapolsky, Prof. J. Henrich, and many [others](references) - my answers:
+- Yes, there is so much more to personality, HEXACO is just a starter.
+- Being member of 'Flexible Groups' that fit to your personality can substantially improve your happiness.
+- You can't change your personality in the short term, but there are in fact tools to make personality changes in the long run.
+
+Please find details on these advanced topics here:
+- [Advanced Topics On Personality](personality_advanced)
 
 
 
@@ -54,11 +69,14 @@ My slogan:
     You should be aware of your personality to make the best out of it.
 
 
-# Deep Dive In Flexible Groups
+# Deep Dives In Flexible Groups
 
 Which is this social and how does it work?
 
 - [On Teams](teams)
+
+
+
 
 
 

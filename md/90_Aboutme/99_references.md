@@ -14,9 +14,10 @@ For each section, in order of publication date.
 - [Joe Navarro, What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People, 2008](https://www.amazon.com/What-Every-Body-Saying-Speed-Reading/dp/0061438294/)
 - [Daniel Kahneman, Thinking, Fast and Slow, 2013](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)
 - [Robert M. Sapolsky, Behave: The Biology of Humans at Our Best and Worst, 2018](https://www.amazon.de/gp/product/0143110918/)
+- [Joseph Henrich, The WEIRDest People in the World, 2020](https://www.amazon.de/WEIRDest-People-World-Psychologically-Particularly-ebook/dp/B07RZFCPMD)
 
 
-## On Teams
+## On Flexible Groups
 
 - [Dale Carnegie, How to win Friends & Influence People, 1938](https://www.amazon.com/How-win-Friends-Influence-People/dp/8189297813/)
 - [John C. Maxwell, The 17 Indisputable Laws of Teamwork, 2001](https://www.amazon.com/17-Indisputable-Laws-Teamwork-Embrace/dp/0785274340/)
@@ -33,7 +34,8 @@ For each section, in order of publication date.
 - [Kelly McGonigal, The Willpower Instinct, 2013](https://www.amazon.com/Willpower-Instinct-Self-Control-Works-Matters/dp/1583335080/)
 - [Olivia Fox Cabane, The Charisma Myth, 2013](https://www.amazon.com/Charisma-Myth-Science-Personal-Magnetism/dp/1591845947/)
 
-### German
+
+## German
 
 - [Jens L. Tiedemann, Scham (German), 2013](https://www.amazon.com/Scham/dp/3837922294/)
 - [Heinz Feldmann, Preisverhandlungen: Warum Menschen keine Rabatte und Nachlässe kaufen (German), 2014](https://www.amazon.de/gp/product/0143110918/)

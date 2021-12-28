@@ -7,10 +7,11 @@ permalink: /facetten_DE
 # Facetten
 
 | Abbreviation | English | Deutsch |
+|:---|:---|:---|
 | H | [Sincerity](#sincerity) | [Aufrichtigkeit](#aufrichtigkeit) |
 | H | [Fairness]((#fairness))  | [Fairness](#fairness) |
 | H | [Greed Avoidance]((#greed-avoidance))  | [Vermeidung von Gier](#vermeidung-von-gier) |
-| H | [Modesty]((#odesty))  | [Bescheidenheit](#bescheidenheit) |
+| H | [Modesty]((#modesty))  | [Bescheidenheit](#bescheidenheit) |
 | E | [Fearfulness]((#fairness))  | [Furchtsamkeit](#furchtsamkeit) |
 | E | [Anxiety]((#greed-avoidance))  | [Besorgnis](#besorgnis) |
 | E | [Dependence]((#modesty))  | [Abhängigkeit](#abhängigkeit) |
@@ -23,7 +24,7 @@ permalink: /facetten_DE
 | A | [Gentleness]((#gentleness))  | [Sanftmut](#sanftmut) |
 | A | [Flexibility]((#flexibility))  | [Anpassungsfähigkeit](#anpassungsfähigkeit) |
 | A | [Patience]((#patience))  | [Geduld](#geduld) |
-| C | [Organization]((#Organization))  | [Gewissenhaftigkeit](#gewissenhaftigkeit) |
+| C | [Organization]((#Organization))  | [Organisationstalent](#oAftrganisationstalent) |
 | C | [Diligence]((#Diligence))  | [Fleiß](#fleiß) |
 | C | [Perfectionism]((#Perfectionism))  | [Perfektionismus](#perfektionismus) |
 | C | [Prudence]((#Prudence))  | [Impulskontrolle](#impulskontrolle) |
@@ -42,8 +43,8 @@ permalink: /facetten_DE
 - Wenn du jemanden nicht magst oder dich für eine Seite entschieden hast, dann bleibst du dabei.
 
 :heavy_minus_sign:
-- Manchmal schlüpst du in die Rolle, welche andere von dir erwarten.
-- Du machst es dir leichter, Gefallen von anderen zu erhalten, indem du dich bei Ihnen beliebt machst, z.B. durch Lobhuddelei.
+- Manchmal schlüpfst du in die Rolle, welche andere von dir erwarten.
+- Du machst es dir leichter, Gefallen von anderen zu erhalten, indem du dich bei Ihnen beliebt machst, z.B. durch Lobhudelei.
 
 ### Fairness
 
@@ -69,7 +70,7 @@ permalink: /facetten_DE
 
 :heavy_plus_sign:
 - Du hälst dich für nichts Besonderes.
-- Es ist dir unangehm, außergewöhnliche Aufmerksamkeit zu erfahren.
+- Es ist dir unangenehm, außergewöhnliche Aufmerksamkeit zu erfahren.
 
 :heavy_minus_sign:
 - Du hälst dich für außergewöhnlich talentiert oder ausgebildet.
@@ -170,7 +171,7 @@ permalink: /facetten_DE
 
 :heavy_minus_sign:
 - Du ermüdest schnell.
-- So richtig Spass macht dir das Ganze nicht.
+- So richtig Spaß macht dir das Ganze nicht.
 - Du bist eher missmutig bei der Sache.
 
 # A
@@ -185,7 +186,7 @@ permalink: /facetten_DE
 
 
 :heavy_minus_sign:
-- Du mistraust anderen grundsätzlich.
+- Du misstraust anderen grundsätzlich.
 - Du hegst Groll gegenüber einigen Mitmenschen.
 - Für persönliche Kränkungen sinnst du auf Rache.
 - Du denkst, dass man an manche Sachen schon mal etwas aggressiver rangehen muss.
@@ -251,7 +252,7 @@ permalink: /facetten_DE
 :heavy_minus_sign:
 - Ordentlichkeit und Sauberkeit ist dir nicht so wichtig.
 - Dein selbstgesetztes Maß an Ordentlichkeit erreichst du selten. 
-- Du schiebst Unangenhmes eher auf.
+- Du schiebst Unangenehmes eher auf.
 - Selten machst du dir Gedanken darüber, was du wann am besten erledigst.
 
 ### Fleiß
@@ -305,7 +306,7 @@ permalink: /facetten_DE
 
 :heavy_minus_sign:
 - Die Gedanken oder Gefühle anderer nach zu vollziehen ist dir eher fremd.
-- Es zieht dich nicht in ein Museum oder sonstwohin, um anderer Leute Kunstwerke zu bestaunen.
+- Es zieht dich nicht in ein Museum oder anders wohin, um anderer Leute Kunstwerke zu bestaunen.
 - Bisher hat es noch kein Sonnenuntergang geschafft, dass du stehen bleibst, um ihn zu bestaunen.
 
 ### Wissbegierde
@@ -334,12 +335,10 @@ permalink: /facetten_DE
 
 ### Außergewöhnlichkeit
 
-Tendency to accept the unusual. Low scorers avoid eccentric or nonconforming persons, whereas high scorers are receptive to ideas that might seem strange or radical.
-
 :heavy_plus_sign:
 - Du setzt dich mit ungewöhnlichen oder gar radikalen Ideen auseinander.
 - Du suchst eher den Kontakt zu außergewöhnlichen Menschen.
-- Es ist für dich ok, selbst als ungewöhnlich oder gar ekzentrisch zu gelten. 
+- Es ist für dich ok, selbst als ungewöhnlich oder gar exzentrisch zu gelten. 
 - Selbst bei konkreten Nachteilen stehst du zu deiner Außergewöhnlichkeit.
 
 :heavy_minus_sign:
