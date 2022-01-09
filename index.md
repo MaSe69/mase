@@ -7,7 +7,7 @@ permalink: /index
 <br>
 This is my private web site. <br>
 Currently, it is mainly dedicated to personality. <br>
-English is the main language here, but some topics are only available in German.
+English is the main language here, with selected topics also available in German.
 
 
 # Deep Dives In 'Personality'
@@ -49,11 +49,11 @@ I would recommend anybody to stick with the English HEXACO-version. The 100+ que
 
 Nach einer Einführung in den Persönlichkeitstest 'HEXACO' gibt es Erläuterungen zu dessen Dimensionen und Facetten. Die HEXACO-Facetten Seite fasst insbesondere Antworten so zusammen, dass ihre Bedeutung für die jeweiligen Extreme klarer wird.
 
-- [:de: HEXACO Einführung](HEXACO_intro_DE)
+- [:de: HEXACO Einführung](HEXACO_Intro_DE)
 - [:de: HEXACO Dimensionen](dimensions_DE)
 - [:de: HEXACO Facetten](facetten_DE)
 
-Einige meiner ersten Ergebnisse als Datenanalyst gibt es hier [HEXACO Antworten Analyse](HEXACO_DE)
+Einige meiner ersten Ergebnisse als Datenanalyst gibt es hier [HEXACO Antworten Analyse](HEXACO_Analyse_DE)
 
 
 ## Advanced Topics On Personality
@@ -64,7 +64,8 @@ After having made use of personality tests like HEXACO, questions remain.
 - Can I change my personality?
 
 
-After having spent quite some time on this topic - based on results by Prof. R. M. Sapolsky, Prof. J. Henrich, and many [others](references) - my answers:
+After having spent quite some time on this topic, see [References](references), here are my answers:
+
 - HEXACO is just a taster to motivate deep dives into personality.
 - Knowledge on personality in general and the specific own personality can increase happiness, success, ... .
 - There are in fact tools to make personality changes in the long run.
@@ -112,19 +113,42 @@ The interesting questions then become:
 - For instance: Have impatient individuals a stronger urge to climb up the social ladder?
 
 
-Continue reading here on [the ISH Classification](ish_model)
-
+Continue reading here on [the ISH Classification](ish_classification)
 
 
 ### Personality and Westernization
 
+Prof. J. Henrich, see [References](references), makes interesting points indicating that personality itself is a feature, which only occurs after a certain 'Westernization'. 
+
+- Personality is rather a self-fulfilling prophecy based on the desire of consistency.
+- This desire of consistency itself is based on analytical thinking which breaks down a thing into its component, i.e. a person into personality traits. 
+- In kin-based societies, the social role of a person and pragmatism dominate behavior making personality or attitudes much less important. 
 
 
+I have long time suspected that the interest in personality tests is at least partly due to desire for personal or career advancements. In the context of 'westernization' this makes absolutely sense. Prospects of getting a good job might depend on own westernization. Hence, the true question of an applicant towards a personality test might not be 'Am I a this or that kind of person?' but rather 'Am I westernized enough for the next job interview?'. 
+
+Continue reading here on [personality and westernization](westernization)
 
 
+### Changing Personality
 
+Allegedly a lot of the personality is inherited. Maybe.
+Undoubtedly, with increasing age it is becoming more difficult to change personality.
 
+Pre-ceding questions are:
+- Is it desirable at all to change one's personality?
+- Are there better or worse personalities?
+- Can a change in personality be measured?
 
+Let's assume 'yes' as answer to the above questions.
+Which are the means to change personality?
+
+At least the following 'tools' came to my attention:
+- Habits
+- Symbols
+- Music
+
+Continue reading here on [changing personality](changing_personality)
 
 
 ---

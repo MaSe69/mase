@@ -9,7 +9,8 @@
   }
   
   .footer-column {
-    flex-basis: 15%;
+    /* flex-basis: 15%; */
+    flex-basis: 50%;
   }
 
 
