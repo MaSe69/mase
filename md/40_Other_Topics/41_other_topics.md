@@ -36,3 +36,8 @@ Later I switched to digital arts using the software Krita.
 I then discovered that tattoos have played a significant role in both personality and team building.
 
 - [Painting and Tattoo Design](https://mase69.github.io/tatmars/)
+
+
+My slogan:
+ > 
+    In a digital world, data science should be used as much as possible to increase the insights into any topic.

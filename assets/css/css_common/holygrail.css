@@ -5,6 +5,7 @@
   /* height: 100vh; */
   min-height: 100vh;
   max-width: 3840px;
+  /* max-width: 1000px; */
   background-color: black;
   background-color: white;
   /* font-family: 'Ubuntu';
@@ -61,18 +62,21 @@
 }
 
 .column_center {
-  flex: 0 0 64%;
+  /* flex: 0 0 64%;
+  flex: 0 0 50%; */
   order: 0;
 }
 
 .column_left {
   flex: 0 0 18%;
+  flex: 0 0 23%;
   order: -1;
   opacity: 0.0;
 }
 
 .column_right {
   flex: 0 0 18%;
+  flex: 0 0 23%;
   order: 1;
   opacity: 0.0;
 }

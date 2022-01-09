@@ -1,7 +1,7 @@
 ---
 layout: 10_topic
 title: Flexible Groups
-permalink: /Flexible_Groups
+permalink: /flexible_groups
 ---
 
 # Flexible Groups

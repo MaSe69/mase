@@ -6,6 +6,11 @@ permalink: /facetten_DE
 
 # Facetten
 
+Hier ist eine Gegenüberstellung der englischen Bezeichnungen im Original und einer deutschen Übersetzung. <br>
+Die erste Spalte ist der Anfangsbuchstabe der HEXACO-Dimension. 
+
+Ein Klick auf die deutsche Bezeichnung führt auf den entsprechenden Absatz auf dieser Seite. (Die englische Seite ist noch in Arbeit.)
+
 | Abbreviation | English | Deutsch |
 |:---|:---|:---|
 | H | [Sincerity](#sincerity) | [Aufrichtigkeit](#aufrichtigkeit) |

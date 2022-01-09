@@ -1,9 +1,16 @@
 {% capture imagePath %}
 {% endcapture %}
-{% capture altText %}
+{% capture imageCaption %}
+{% endcapture %}
+{% capture thisWidth %}
 {% endcapture %}
 
-
-<div class="page_image_container">
-    <img src="{{ site.baseUrl }}{{ include.imagePath  }}" alt="{{ include.altText}}">
-</div>
+<figure class="page_figure_container">
+    <div class="page_image_container">
+        <img src="{{ site.baseUrl }}{{ include.imagePath  }}" alt="{{ include.imagePath }}"
+            width="{{ include.thisWidth}} ">
+    </div>
+    <div class="page_caption">
+        {{ include.imageCaption }}
+    </div>
+</figure>
