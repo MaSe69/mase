@@ -14,7 +14,7 @@ Let me further recommend the book [THE H FACTOR of PERSONALITY](https://www.amaz
 
 ## HEXACO Facets - A First Result
 
-Assumingly, you are aware that HEXACO is the acronym for 6 dimensions Each of these dimensions is the aggregation of 4 so-called 'facets'. In total, hence, there are 24 HEXACO Facets.
+Assumingly, you are aware that HEXACO is the acronym for 6 dimensions. 
 
 Let's focus on these facets. They should lead to a characteristic score for each personality trait of a specific person. Facets should be independent of the concrete questions leading to that score. Further, you need to get down to the facets anyway when you want to make sense of a HEXACO result.
 

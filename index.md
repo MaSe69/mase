@@ -5,7 +5,7 @@ permalink: /index
 ---
 
 <br>
-This is my private web site. <br>
+This is my private web site. 
 Currently, it is mainly dedicated to personality. <br>
 English is the main language here, with selected topics also available in German.
 
@@ -30,18 +30,25 @@ Most importantly, the current version of the HEXACO tests provides you with the 
 In about an hour you will have completed the 100+ questions. The site and the PDF with your results contains information about the 'dimensions' and 'facets' used in the test.
 
 After having received your results, you might still want to have some additional information that supports to follow-up actions. 
+You can take the HEXACO test here - [HEXACO-PI-R test on hexaco.org](http://hexaco.org/hexaco-online/).
+
+
 As a data scientist, I analyzed anonymous HEXACO answers. This helped me to deepen my understanding of the facets which are crucial to such personality tests. 
-
-
 Particularly surprising were some of the averages which made me think: "Well, the others are quite different than I expected them to be." 
-
-- You can take the HEXACO test here - [HEXACO-PI-R test on hexaco.org](http://hexaco.org/hexaco-online/).
-- You can find some of my findings here [:us: Analysis of HEXACO answers](HEXACO) .
+You can find some of my findings here [:us: Analysis of HEXACO answers](HEXACO) .
 
 
-You might expect German-native speakers to take personality tests in German language. If you do so, you might find that the English words whose exact meaning you are not quite sure of are replaced by Latin words which give you the same trouble. For topics like 'extroversion', it does not help you to struggle with a German test result. 
+After having made use of personality tests like HEXACO, questions remain.
+- Is there more to be known about personality?
+- How can I use my knowledge about my personality for a happier life?
+- Can I change my personality?
 
-I would recommend anybody to stick with the English HEXACO-version. The 100+ questions are sufficiently easy to understand and to answer.
+
+After having spent quite some time on this topic, see [References](references), here are my answers:
+
+- HEXACO is just a starter to motivate deep dives into personality.
+- Knowledge on personality in general and the specific own personality can increase happiness, success, ... .
+- There are in fact tools to make personality changes in the long run.
 
 
 ## Personality Test - HEXACO - In German
@@ -55,115 +62,72 @@ Nach einer Einführung in den Persönlichkeitstest 'HEXACO' gibt es Erläuterung
 
 Einige meiner ersten Ergebnisse als Datenanalyst gibt es hier [HEXACO Antworten Analyse](HEXACO_Analyse_DE)
 
+---
 
-## Advanced Topics On Personality
+# PAC-ISH-Model 
 
-After having made use of personality tests like HEXACO, questions remain.
-- Is there more to be known about personality?
-- How can I use my knowledge about my personality for a happier life?
-- Can I change my personality?
+After having spent quite some time on personality and other topics of psychology, see [References](references), I found that it is worth experimenting with an own model.
 
-
-After having spent quite some time on this topic, see [References](references), here are my answers:
-
-- HEXACO is just a taster to motivate deep dives into personality.
-- Knowledge on personality in general and the specific own personality can increase happiness, success, ... .
-- There are in fact tools to make personality changes in the long run.
+Everybody might have an understanding of what 'personality' is, but it is difficult to find a precise definition. Once I started with such a definition, I quickly ended up with a model for the connection between body and behavior.
 
 
-### A starting hypothesis: "PAC-Model"
+## PAC-ISH-Model - Components
 
-Everybody might have an understanding of what 'personality' is, but it is difficult to find a precise definition. 
-In particular, there seems to be some overlap with other terms.
-
-This led me think about a definition of 'personality' as a layer. A layer separates two other layers, often a lower (south-bound) layer from an upper (northbound) layer.
-
-On the southbound side, I would see anything that has to do with the body, the brain, the neurological framework - 'Neuro' in short. On the northbound side, I would see attitudes, goals and capabilities. 
+In my world, it is common to break complex things down into components. Then, you describe these components and their interfaces. Some of these components are depicted below.
 
 <center>
 {% include images/image.html imagePath = "../assets/images/img_content/NPAC_Model.png" thisWidth ="400px"%}
-PAC-Model. <br>
-A simple definition of personality as a layer underneath attitudes and capabilities.
+PAC-Model: Personality, Attitudes and Capabilities as the fundamental components.<br>
 </center><br>
 
-
-The interesting questions then become: 
-- What is an attitude and not a personality trait?
-- Which specific personality traits and their values make specific attitudes more likely?
-- Can a change in attitude change the personality?
-
-Continue reading here on [the PAC Model](pac_model)
+On the southbound side, I would see anything that has to do with the body, the brain, the neurological framework - 'Neuro' in short. On the northbound side, I would see attitudes, goals and capabilities. I keep it short, because you might not be interested in the model, but what you get out of it. You can find here details on [the PAC Model](pac_model)
 
 
-### Individual, Social, Hierarchical (ISH) - classification
+### Individual, Social, Hierarchical (ISH) - Structure
 
-I suggest to classify personality traits as either
+Each component has an internal structure 
+
 - Individual
 - Social 
 - Hierarchical
 
-Some social attitudes are deeply rooted and not just an attitude. Hence, they should go to 'personality'. They are already partly covered in existing personality descriptions. The 'H' in HEXACO stems from "reciprocal altruism (i.e. a tendency to cooperate with others in general)" [K. Lee and M.C. Ashton] and shows a fine-tuning of the social traits. 
-
-It might be new to suggest an extra category for 'hierarchy', but I would see hierarchical traits to be sufficiently different from social traits. People especially spend a lot of time re-assuring their places in hierarchies. Many attitudes seem to be rooted in the desire to climbing up the social ladder. If attitudes are rooted in personality, the hierarchy should have its dedicated place in personality as well. There seem to be sufficient differences in 'hierarchical traits'. 
+Continue reading here on [the ISH Structure](ish_structure)
 
 
-The interesting questions then become: 
-- How to cover hierarchical traits comprehensively?
-- How independent are the I, S and H traits statistically?
-- For instance: Have impatient individuals a stronger urge to climb up the social ladder?
+### Descriptions using the PAC-ISH-Model
+
+Sorry to bother you with a model, but once you got one, you can address the more practical questions such as:
+
+- How can you find out more about yourself?
+- How can you describe or cluster other people?
+- How can you compare yourself to others?
+- How can you pick others, e.g. to form a successful team?
+
+Continue reading here on [description](description)
 
 
-Continue reading here on [the ISH Classification](ish_classification)
+### Change using the PAC-ISH-Model
 
-
-### Personality and Westernization
-
-Prof. J. Henrich, see [References](references), makes interesting points indicating that personality itself is a feature, which only occurs after a certain 'Westernization'. 
-
-- Personality is rather a self-fulfilling prophecy based on the desire of consistency.
-- This desire of consistency itself is based on analytical thinking which breaks down a thing into its component, i.e. a person into personality traits. 
-- In kin-based societies, the social role of a person and pragmatism dominate behavior making personality or attitudes much less important. 
-
-
-I have long time suspected that the interest in personality tests is at least partly due to desire for personal or career advancements. In the context of 'westernization' this makes absolutely sense. Prospects of getting a good job might depend on own westernization. Hence, the true question of an applicant towards a personality test might not be 'Am I a this or that kind of person?' but rather 'Am I westernized enough for the next job interview?'. 
-
-Continue reading here on [personality and westernization](westernization)
-
-
-### Changing Personality
-
-Allegedly a lot of the personality is inherited. Maybe.
-Undoubtedly, with increasing age it is becoming more difficult to change personality.
-
-Pre-ceding questions are:
-- Is it desirable at all to change one's personality?
-- Are there better or worse personalities?
-- Can a change in personality be measured?
-
-Let's assume 'yes' as answer to the above questions.
-Which are the means to change personality?
+Let's assume that you want to change yourself. 
+Which are tools for such change?
 
 At least the following 'tools' came to my attention:
-- Habits
-- Symbols
 - Music
+- Habits
+- Body Language
+- Symbols
 
-Continue reading here on [changing personality](changing_personality)
-
+Continue reading here on [change](change)
 
 ---
 
-# Deep Dives In 'Flexible Groups'
+
+## Other Topics Of My Interest
 
 
 'Flexible Groups' are essentially 'teams'. The word 'teams' however got overloaded.
-
-
 - [Flexible Groups](flexible_groups)
 
-
-
-## Other Topics Of My Interest
 
 This is my private web site - and my interest is certainly not limited to some areas of psychology.
 
