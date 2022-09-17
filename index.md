@@ -83,15 +83,15 @@ Particularly surprising were some of the averages which made me think: "Well, th
 
 # Deutsche Version (German version)
 
-## Was ist "Personalität"?
+## Was ist mit "Personalität" hier gemeint?
 
-Für eine psychologisch korrekte Definition, bitte suche entsprechende Seiten auf.
+Eine erste Möglichkeit, Personalität zu definieren, besteht darin, die 6 Dimensionen zu benutzen, welche durch HEXACO definiert sind.
 
-Aus der Sicht eines Data Scientist, gibt es mehrere Möglichkeiten.
-Eine erste Möglichkeit besteht darin, die 6 Dimensionen zu benutzen, welche durch HEXACO definiert sind.
+Ein großes Problem bei diesem Ansatz besteht jedoch darin, dass es schwierig ist, ausführlicher in diese Dimensionen abzutauchen.
+Auch zu beschreiben, wie Persönlichkeitsänderungen bewirkt werden könnten, erweist sich als eher unzugänglich.
 
-Ein großes Problem bei diesem Ansatz besteht jedoch darin, dass es schwierig ist, ausführlicher in diese Dimensionen abzutauchen oder oder gar zu beschreiben, wie Persönlichkeitsänderungen bewirkt werden könnten.
-Erstens, diese Dimensionen sind Zusammenfassungen von zu Grunde liegenden Komponenten. Es scheint einfacher, jene Komponenten zu beschreiben oder zu Verändern als komplexe Zusammenfassungen.
+Gründe hierfür: 
+Erstens, diese Dimensionen sind Zusammenfassungen von zugrunde liegenden Komponenten. Es scheint einfacher, jene Komponenten zu beschreiben oder zu verändern als komplexe Zusammenfassungen.
 
 Zweitens, ein größerer Teil der Standard-Psychologie scheint dem Begriff der 'Persönlichkeit' kritisch gegenüber zu stehen. Neue Einsichten werden kaum in den Dimensionen zur Verfügung gestellt, wie sie für die Persönlichkeit herangezogen werden.
 
@@ -99,10 +99,12 @@ Letztlich scheint es schwierig zu sein, Persönlichkeit zu beschreiben, ohne dab
 
 ## Komponenten der Persönlichkeit
 
+Eine andere Möglichkeit besteht darin, Komponenten menschlicher Eigenschaften zu definieren und aus diesen dann einen Persönlichkeitsbegriff abzuleiten.
+
 Bei der Beschreibung menschlicher Eigenschaften scheint es eine Menge von Wörtern zu geben, welche ähnliche Bedeutung haben oder sich zumindest in ihrer Bedeutung überlappen. 
 Wenn man programmiert, ist man gezwungen 'Dingen' einen eindeutigen Namen zu geben. 
 Wie auch immer man sich dabei entscheidet, man selbst oder andere werden damit unglücklich sein.
-Hier sind mein aktuellen Begrifflichkeiten: 
+Hier sind mein aktuellen Begriffe dieser Komponenten: 
 
 - Körper und System I+I
 - Fähigkeiten
@@ -115,7 +117,7 @@ Hier sind mein aktuellen Begrifflichkeiten:
 
 Jeder Mensch kann - so die Annahme hier - recht gut durch diese Komponenten beschrieben werden, wobei jede Komponente ein Menge von Unter-Komponenten haben darf.
 
-## Persönlichkeit als Eigen-Vektoren
+### Persönlichkeit als Eigen-Vektoren
 
 Eine Beschreibung mittels der oben genannten Komponenten mag zwar ausreichend genau sein, aber sie wird auch ziemlich komplex werden. Solch eine Komplexität macht eine Beschreibung dann wiederum nutzlos.
 
@@ -153,21 +155,40 @@ Zu weiteren Vorteilen würde ich zählen:
 
 ### Einschränkungen und Kritik an Persönlichkeitstests
 
-Unter den Kritikpunkten würde ich u.a. vorbringen: 
+Unter den allgemeinen Kritikpunkten würde ich u.a. vorbringen: 
+- Vernachlässigung des kultureller Hintergrunds
 - Die Schwäche der Aussagekraft des Ergebnisses
 - Die unklare Referenzmenge
-- Der (unklare) Zusammenhang zwischen Facetten und Dimensionen.
 
-Offensichtlich hängt der Wert des Ergebnisses davon ab, wie wahrheitsgemäß man selbst und die anderen die Fragen beantwortet haben. 
+Das Konzept der 'Persönlichkeit' und dessen Konsistenz sollte auf einem kulturellen Hintergrund gesehen werden. Angeblich gebe es Kulturen, in denen dieses Konzept nicht viel Sinn ergibt.
 
-Ein weiterer wichtiger Punkt ist das Ideal, welches in einem solchen Test impliziert ist. 
-Hierbei unterscheidet sich HEXACO besonders von dem 'Big Five' durch die Einführung des 'H-Faktors'.
+Ein wichtiger Teil des Test-Ergebnisses ist die relative Lage zu 'den anderen'. Dieser Referenz-Wert jedoch verändert sich. 
+Offensichtlich hängt die Aussagekraft  des eigenen Test-Ergebnisses aber auch das Verhältnis zum Referenzwert davon ab, wie ernsthaft und wahrheitsgemäß man selbst und auch die anderen die Fragen beantwortet haben. 
 
-Dieser H-Faktor ist nicht neutral, wie die Dimensionen bei den Big Five', sondern die Erfinder von HEXACO diskutieren ausführlich, dass es 'wünschenswerte' Werte für die Dimension 'Honesty-Humility' gibt.
+Über jene 'anderen', mit denen man sich ja schließlich vergleicht, weiß man nicht viel. Aber man muss davon ausgehen, dass diese anderen nicht repräsentativ sind - zumindest nicht für die Weltbevölkerung.
+
+
+### Besonderheiten von HEXACO
+
+Bei HEXACO fällt insbesondere auf:
+
+- Eingeschränkte Analyse-Möglichkeiten.
+- Der (merkwürdige) Zusammenhang zwischen Facetten und Dimensionen.
+- Die Wertigkeit des 'H-Faktors'
+
+Das Ergebnis eines HEXACO-Tests bekommt man als PDF-Datei zugeschickt.
+Wünschenswert wäre ein Format, in dem man verschiedene Test-Ergebnisse miteinander vergleichen könnte, z.B. das Ergebnis einer Fremdbewertung oder die eigene Bewertung aus der Vergangenheit.
+
+Die Werte der 4 Facetten aggregieren sich zu einer Dimension. Es ist dabei nicht offensichtlich, warum genau diese 4 'Unterkategorien' genau diese Dimension ergeben. 
+
+HEXACO unterscheidet sich von dem 'Big Five' durch die Einführung des 'H-Faktors'. Dieser H-Faktor ist nicht neutral, wie die Dimensionen bei den Big Five', sondern die Erfinder von HEXACO diskutieren ausführlich, dass es 'wünschenswerte' Werte für die Dimension 'Honesty-Humility' gibt.
+
+Trotzdem besticht HEXACO insgesamt durch Transparenz und Nachvollziehbarkeit, was den entsprechenden Test als Ausgangsbasis einer Modellierung empfiehlt.
 
 
 ## Ideale der Persönlichkeit
 
+Ein weiterer wichtiger Punkt ist das Ideal, welches in einem Persönlichkeitstest impliziert ist. 
 Meine Annahme ist, dass es keinen Persönlichkeitstest ohne ein zugrunde liegendes Ideal geben kann. 
 Die Teilnahme an einem Persönlichkeitstest kann schon ein winziges Stück 'persönlichkeitsverändernd' sein, da man sich mit diesem impliziten Ideal auseinander setzen muss.
 
