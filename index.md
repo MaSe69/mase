@@ -14,6 +14,12 @@ Though this landing page and some dedicated pages are available in English [:us:
 this site is particularly meant for a German-speaking audience [:de:](). 
 Many articles and latest books are not available in German, and the topic here often requires some dedicated English vocabulary.
 
+What do YOU get out of this site?
+- An independent deep dive on what HEXACO is about.
+- If you did a HEXACO test, support to interpret your own results.
+- If you are pro or con personality tests, arguments on either side.
+- Insights, if you wonder how develop your own personality further. (Well, currently just a starter)
+
 
 # What is "Personality"?
 
@@ -83,6 +89,13 @@ Particularly surprising were some of the averages which made me think: "Well, th
 
 # Deutsche Version (German version)
 
+Welchen Mehrwert verspricht diese Seite?
+- Eine unabhängige Beschreibung von HEXACO.
+- Falls du einen HEXACO Test gemacht haben solltest, Unterstützung dein Ergebnis zu interpretieren.
+- Wenn du für oder gegen Persönlichkeitstests bist, Argumente für beide Seiten.
+- Einsichten, falls du vorhast, deine Personalität weiter zu entwickeln. (Naja, ein Anfang zumindest ist hier erst vorhanden).
+
+
 ## Was ist mit "Personalität" hier gemeint?
 
 Eine erste Möglichkeit, Personalität zu definieren, besteht darin, die 6 Dimensionen zu benutzen, welche durch HEXACO definiert sind.
@@ -106,7 +119,7 @@ Wenn man programmiert, ist man gezwungen 'Dingen' einen eindeutigen Namen zu geb
 Wie auch immer man sich dabei entscheidet, man selbst oder andere werden damit unglücklich sein.
 Hier sind mein aktuellen Begriffe dieser Komponenten: 
 
-- Körper und System I+I
+- [Körper und System I+I](BAC_B_DE)
 - Fähigkeiten
 - Einstellungen
 - Kultur
