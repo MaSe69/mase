@@ -25,3 +25,17 @@ The fascination about data science is to get to insights about reality that ofte
 Here is a list on [Literature](references) on which some of the info here is based.
 
 
+---
+
+### Some Other Topics Of My Interest
+
+
+'Flexible Groups' are essentially 'teams'. The word 'teams' however got overloaded.
+- [Flexible Groups](flexible_groups)
+
+
+My interests are not limited to some areas of psychology ...
+
+- You can find my introduction to dataframes on [beautifuldataframes.com](https://beautifuldataframes.com) .
+- You can find my view on history in German here [:de: Drei Wendepunkte in der Geschichte](history_de)
+

@@ -14,7 +14,7 @@ Du kannst die offizielle Seite von HEXACO besuchen und dort den HEXACO Test kost
 
 Sei ermutigt, nach Möglichkeit, **einen Beitrag** für deren Service zu leisten.
 
-Ich möchte auch das Buch [THE H FACTOR of PERSONALITY](https://www.amazon.com/-/de/dp/1554588340/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=the+h+factor&qid=1616861450&sr=8-1) empfehlen. Die Entwickler von HEXACO, Kibeom Lee and Michael C. Ashton, verhelfen darin zu einem tiefgreiferenden Verständnis des H-Faktors. 
+Ich möchte auch das Buch [THE H FACTOR of PERSONALITY](https://www.amazon.com/-/de/dp/1554588340/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=the+h+factor&qid=1616861450&sr=8-1) empfehlen. Die Entwickler von HEXACO, Kibeom Lee and Michael C. Ashton, verhelfen darin zu einem tieferen Verständnis des H-Faktors. 
 
 ## Übersetzung
 

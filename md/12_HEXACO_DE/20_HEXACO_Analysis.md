@@ -12,7 +12,7 @@ Wenn du den HEXACO Test bereits gemacht haben sollten, so weißt du längst, das
 
 Diese Facetten sollten zu einem aussagekräftigem Wert ('score') für jede Eigenschaft ('trait') einer Personalität ('personality') führen. 
 Facetten sollten unabhängig von den konkreten Fragen sein, welche zu diesem Wert führen.
-Wenn du die Resultate deines HEXACO Tests genauer verstehen möchtest, so musst du dich mit diensen Facetten sowieso beschäftigen.
+Wenn du die Resultate deines HEXACO Tests genauer verstehen möchtest, so musst du dich mit diesen Facetten sowieso beschäftigen.
 
 Das Bild unten zeigt die Ergebnisse für die Hälfte der Facetten, zwei Facetten pro Dimension.
 
@@ -25,7 +25,7 @@ Werte von 12 HEXACO Facetten von 22 000 bereinigten Test Ergebnissen. <br>Die Mi
 </center><br>
 
 Ich passte die Skala der Werte an, um das Ergebnis einfacher ablesen zu können.<br>
-'+++' für Furchtsamkeit sollte naheligenderweise auf eine 'sehr furchtsame' Person zutreffen, und '- - -' das Gegenteil bedeuten.
+'+++' für Furchtsamkeit sollte naheliegenderweise auf eine 'sehr furchtsame' Person zutreffen, und '- - -' das Gegenteil bedeuten.
 
 Details zu den Facetten finden sich auf der HEXACO Seite:
 - [Facets on the HEXACO page](http://hexaco.org/scaledescriptions).
@@ -36,14 +36,14 @@ Eine deutsche Übersetzung von mir gibt es hier:
 Eine deutsche Übersetzung der Dimensionen von mir gibt es hier:
 - [Dimensionen auf Deutsch](dimensions_DE).
 
-Die Testergebnisse bedurften einiger Aufbereitung und Bereiningung. Fast die Hälfte der Fragen ist in 'umgekehrter Richtung' gestellt. Einige Teilnehmer scheinen auch nicht besonders ernsthaft abgestimmt zu haben. Solche Testergebnisse habe ich entfernt.
+Die Testergebnisse bedurften einiger Aufbereitung und Bereinigung. Fast die Hälfte der Fragen ist in 'umgekehrter Richtung' gestellt. Einige Teilnehmer scheinen auch nicht besonders ernsthaft abgestimmt zu haben. Solche Testergebnisse habe ich entfernt.
 
 
 ## HEXACO Facetten - Was bedeutet dieses Ergebnis?
 
 ### Sind die anderen so, wie wir erwarten, dass sie sind?
 
-Als Ersters fällt auf, dass der Mittelwert der Antworten nicht bei Null ist. 
+Als Erstes fällt auf, dass der Mittelwert der Antworten nicht bei Null ist. 
 
 Für 'Fairness', 'Aesthetic Appreciation', und 'Inquisitiveness' ist der Mittelwert zwischen '+' und '++'.<br>
 
@@ -55,7 +55,7 @@ Vermutlich war die auch die Absicht der Fragesteller. Daher ist der Unterschied 
 Ich schließe daraus, dass sich sogar die Experten bei dieser Einschätzung zumindest etwas geirrt haben. 
 Sie wussten es vor diesen Testergebnissen nicht besser. Aber jetzt haben wir diese großartigen Ergebnisse. Wir sollten diese Chance nicht ungenutzt lassen,  mehr Einsichten daraus zu gewinnen!
 
-In diesem Sinne bewerten sich die Teilnahmer überraschend hoch in den Facetten
+In diesem Sinne bewerten sich die Teilnehmer überraschend hoch in den Facetten
 - Fairness
 - Anxiety
 - Aesthetic Appreciation
@@ -75,21 +75,20 @@ Es gibt also auch ausreichend solche, die Kunst verschmähen. Und solche, die we
 Aus dem Ergebnis kann man aber insbesondere sehen, dass die Streuungen für verschiedene Facetten unterschiedlich groß sind.
 Die statistische Varianz ist für Furchtsamkeit signifikant kleiner als für anxiety.
 
-Bei der anxiety ist es so, dass viele Teilnehmer sich sehr viele Sorgen machen. Viele sorgen sich sogar sehr stark, was bedeutet, dass die poitiven Werte sehr oft gewählt worden. Andere hingegen scheinen sich überhaupt nicht zu sorgen. Dieses Abstimmungsverhalten sorgt für eine hohe Varianz.
+Bei der "anxiety" ist es so, dass viele Teilnehmer sich sehr viele Sorgen machen. Viele sorgen sich sogar sehr stark, was bedeutet, dass die positiven Werte sehr oft gewählt worden. Andere hingegen scheinen sich überhaupt nicht zu sorgen. Dieses Abstimmungsverhalten sorgt für eine hohe Varianz.
 
 Bei der Furchtsamkeit hingegen ist es so, dass die meisten Teilnehmer durchaus bereit sind, einige Risiken einzugehen. Nur wenige sind im Extrembereich und scheuen jegliches Risiko oder sind extrem risikofreudig. 
 
-Die Varianzanalyse bei diesen 240 Fragen ist besonderes hilfreich, um neue Fragen zu entwicklen, welche die unterschiedlichen Persönlichkeitstypen genauer unterscheiden lässt.
+Die Varianzanalyse bei diesen 240 Fragen ist besonderes hilfreich, um neue Fragen zu entwickeln, welche die unterschiedlichen Persönlichkeitstypen genauer unterscheiden lässt.
+
 
 ### Qualität der Daten
 
-
-Bei solchen Tests ist es ganz entscheidend, wieviele Testergebnisse man zur Verfügung hat. Ich habe mir daher ziemlich viele, unterschiedliche Mengen von Testergebnissen angesehen.
+Bei solchen Tests ist es ganz entscheidend, wie viele Testergebnisse man zur Verfügung hat. Ich habe mir daher ziemlich viele, unterschiedliche Mengen von Testergebnissen angesehen.
 
 Bei weniger als 100 Testergebnissen schwankt das Gesamtergebnis erwartungsgemäß erheblich.
 Bei 1000 und mehr Testergebnissen bleibt es ziemlich konstant.
 Man kann daher die Verfügbarkeit von 22 Tausend Testergebnissen nicht genug würdigen. Aus statistischer Sicht ist dies deutlich mehr als genug.
 
 Eine Einschränkung ist jedoch, dass es sich bei den Teilnehmern nicht um eine repräsentative Bevölkerung handelt, sondern eher um 'neugierige Internetbenutzer'.
-Allerdings ist dies genau die Bevölkerungsgruppe, die mich interessiert.
 
