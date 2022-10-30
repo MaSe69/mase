@@ -43,10 +43,10 @@ When programming, you inevitably need to make some choice how to name 'things'.
 Whatever your choices, chances are that you or others will be unhappy. 
 This acknowledged, here are my current choices:
 
+- Culture
 - Body and Systems I+II
 - Capabilities
 - Attitudes
-- Culture
 - Moods
 - Goals
 - Triggers
@@ -208,3 +208,9 @@ Die Teilnahme an einem Persönlichkeitstest kann schon ein winziges Stück 'pers
 Wenn dies so ist, dass sollte dieses zugrunde liegende Ideal sorgfältig durchdacht und diskutiert sein. 
 Naheliegenderweise sollte ein solches Ideal einen Mehrwert stiften. 
 Hierum geht es hier im Weiteren.
+
+# Geschichte
+
+[Geschichte](history_de_overview)
+
+
