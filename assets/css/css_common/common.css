@@ -126,18 +126,18 @@ blockquote {
 
 /*  Table */
 table {
-  width: 95%;
-  width: 65%;
+  width: 120%;
   border: 2px solid var(--blue80); 
   padding:10px;
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
+  font-size: 28px;
 }
 
 /*  Table Header */
 th {
-  height: 36px;
+  height: 56px;
   border: 2px solid var(--blue90); 
   padding:10px;
   background-color: var(--blue50);
@@ -147,6 +147,7 @@ th {
 
 /*  Table Body */
 td {
+  height: 36px;
   color: var(--blue90);
   border: 1px solid  var(--blue80); 
   padding:5px  20px 5px 20px;
