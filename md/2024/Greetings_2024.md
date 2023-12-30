@@ -8,5 +8,5 @@ Meine Besten Wünsche für 2024!
 
 Gesundheit und das Erreichen deiner Ziele!
 
-![](pics/Greetings_2024_1.jpg)
+![](pics/Greetings_2024_2.jpg)
 
