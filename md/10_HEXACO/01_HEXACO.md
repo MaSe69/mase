@@ -19,8 +19,6 @@ The defining feature of HEXACO is to specify 6 dimensions.
 - O - Openness to Experience
 
 You find easily some description of these dimensions. 
-However, these dimenions are nothing else (technically) than the aggregations of their facets.
-From a technical perspective, it makes sense to focus on those 'facets'.
 
 
 ## HEXACO Facets
