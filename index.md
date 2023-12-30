@@ -5,7 +5,7 @@ permalink: /index
 ---
 
 
-In 2024, I will use this website for a new variety of topics. If you found interesting info on personality here, please find below the most frequently used pages. 
+In [2024](greetings_2024), I will use this website for a new variety of topics. If you found interesting info on personality here, please find below the most frequently used pages. 
 
 Though this landing page and some dedicated pages are available in English [:us:](aboutme), 
 this site is mainly in German [:de:](). 
