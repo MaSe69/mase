@@ -12,10 +12,11 @@ this site is mainly in German [:de:]().
 
 
 
+## Persönlichkeit
 
-## Personality
+[Nachgedanken zum Thema Personalität](personality_conclusions_part_1)
 
-Before 2024, these were the most frequently visited pages on this website on the topic of  personality
+Before 2024, these were the most frequently visited pages on this website on the topic of personality
 
 - [:us: HEXACO Analysis](HEXACO)
 - [:de: HEXACO Analyse (Deutsch)](HEXACO_Analyse_DE)
