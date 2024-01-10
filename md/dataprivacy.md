@@ -1,7 +1,7 @@
 ---
 layout: 20_topic
 title: Impressum
-permalink: /impressum2
+permalink: /data_security
 ---
 
 This website can be used without entering personal information. 
