@@ -11,6 +11,13 @@ Though this landing page and some dedicated pages are available in English [:us:
 this site is mainly in German [:de:](). 
 
 
+## Musik
+
+Die Beschäftigung mit Musik kann die eigene Persönlichkeit verändern. Diesem Ansatz wollte ich etwas nachgehen.
+
+Derzeit beschäftige ich mich als Schwerpunkt mit der Musikrichtung Reggae, siehe [Reggae](Reggae)
+
+
 
 ## Persönlichkeit
 
