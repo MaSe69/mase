@@ -1,6 +1,6 @@
 ---
 layout: 10_topic
-title: History
+title: Warmzeit
 permalink: /holocene_de
 ---
 
@@ -54,11 +54,6 @@ Kurz vor dem Kometeneinschlag dominierte die sogenannte 'Clovis-Kultur'. Nach de
 
 
 Weltweit stiegen die Meeresspiegel drastisch an, so dass Küstensiedlungen nicht nur überschwemmt wurden, sondern dauerhaft unter dem neuen Meeresspiegel zu liegen kamen. Weltweit verloren wohl die meisten Menschen ihre Heimat. Die Küsten wurden wohl erst einmal deutlich unattraktiver. 
-
-
-
-
-
 
 
 
