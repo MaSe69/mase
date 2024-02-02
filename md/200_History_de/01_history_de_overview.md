@@ -1,6 +1,6 @@
 ---
 layout: 10_topic
-title: Geschichte
+title: Geschichte Übersicht
 permalink: /history_de_overview
 ---
 
