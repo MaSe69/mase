@@ -11,7 +11,7 @@ Unsere derzeitige Warmzeit wird als "Holozän" bezeichnet. Früher soll die Erde
 >
     „Wir leben in einer besonders warmen Phase in einer besonders kalten Zeit der Erdgeschichte.“ (DB2012)
 
-Der Grund für diese besondere warme Phase liegt in den Bewegungen der Erde begründet, wellche durch den sogenannten ‚Milankovitch-Zyklus‘ beschrieben werden. 
+Der Grund für diese besondere warme Phase liegt in den Bewegungen der Erde begründet, welche durch den sogenannten ‚Milankovitch-Zyklus‘ beschrieben werden. 
 
 Wie das im Bild unten nahe legt, begann vor frühestens 15000 Jahren ( = ca. 15 ka ([ka](https://www.wikidata.org/wiki/Q3013059) = „kilo annes“) eine Warmphase, die im wesentlichen bis heute andauert.
 
