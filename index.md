@@ -13,27 +13,16 @@ I wrote this start of this landing page and some dedicated pages in English. Thi
 
 I started on the topic personality with the personality test called HEXACO. As an expert and lecturer on data science, I analyzed available results on this personality test. This led me to the suspicion that behind the notion of 'personality' there must be some kind of 'personality ideal'. I got convinced that 'personality' is very much a thing of [westernization](westernization), which in turn led to the questions: What are the features of westernization? When did it come up? Why was it successful?
 
-Once the concept of personality and personality ideals is established, further interesting questions might be: Should I change my personality at all? If yes, what can I still do to change my personality effectively and efficiently? Can music or sports or arts contribute to change personality?
+Once the concept of personality and personality ideals is established, further interesting questions might be: Should I change my personality at all? If yes, what can I still do to change my personality effectively and efficiently? Can music or sports or arts or science contribute to change personality?
 
-Sorry, but now it's time to switch to German  [:de:](). .
-
-
-## Persönlichkeit und Persönlichkeitsideale
-
-Je länger ich mir die tausenden von Antworten auf die Fragen des HEXACO-Persönlichkeitstests anschaute, desto mehr stellte sich mir die Frage:
-- Wieso diese Antworten? 
-- Wieso eigentlich diese Fragen?  
-- Wieso macht man Persönlichkeitstests eigentlich?
-
-Dahinter verbirgt sich die Erfolgsgeschichte der Klassifizierung. Klassifizierung erfordert, dass Klassen irgendwie festgelegt werden. Vom wen? Wann? Und warum?
-Steckt hinter dem Grund die Idee einer 'guten Persönlichkeit'? Wenn ja, dann ist die Frage: Was ist gut? Oder vielleicht konstruktiver gefragt: Was ist einer Gesellschaft nützlich?
-
-[Persönlichkeit](personality_conclusions_part_1)
+Sorry, but now it's definitely time to switch to German  [:de:]() ...
 
 
-## Geschichte
+## Geschichte (Auswahl)
 
-Wir brauchen nicht weiter als ca. 12 000 Jahre zurück zu gehen. Aber, so weit sollten wir schon zurückblicken. 
+Im Kontext hier brauchen nicht weiter als ca. 12 000 Jahre zurück zu gehen. Aber, so weit sollten wir schon zurückblicken. Zu den Anfängen unserer derzeitigen Warmzeit und einem möglichen Kometeneinschlag zu jener Zeit. 
+
+
 
 Die Zeit um 1500 bis 1600 scheint mir eine besonders wichtige zu sein. Daher habe ich mich etwas eingehender mit dem 16. Jahrhundert beschäftigt.
 
@@ -50,6 +39,17 @@ Derzeit beschäftige ich mich als Schwerpunkt mit Reggae, siehe [Reggae](Reggae)
 
 Dieses Jahr, [2024](greetings_2024), möchte ich auch meine zeichnerischen Fähigkeiten verbessern.
 
+## Persönlichkeit und Persönlichkeitsideale
+
+Je länger ich mir die tausenden von Antworten auf die Fragen des HEXACO-Persönlichkeitstests anschaute, desto mehr stellte sich mir die Frage:
+- Wieso diese Antworten? 
+- Wieso eigentlich diese Fragen?  
+- Wieso macht man Persönlichkeitstests eigentlich?
+
+Dahinter verbirgt sich die Erfolgsgeschichte der Klassifizierung. Klassifizierung erfordert, dass Klassen irgendwie festgelegt werden. Vom wen? Wann? Und warum?
+Steckt hinter dem Grund die Idee einer 'guten Persönlichkeit'? Wenn ja, dann ist die Frage: Was ist gut? Oder vielleicht konstruktiver gefragt: Was ist einer Gesellschaft nützlich?
+
+[Persönlichkeit](personality_conclusions_part_1)
 
 ## Analyse eines Persönlichkeitstests
 
