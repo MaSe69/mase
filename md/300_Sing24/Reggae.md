@@ -80,8 +80,8 @@ Mein Fazit: Die mir bekannten Lieder der Band sind valide zu studieren im Rahmen
 
 Jim Cliff wirkte zur gleichen Zeit auf Jamaica wie Bob Marley in der Reggae-Szene.
 
-[Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
-[jimmy Cliff - Wonderful World Beautiful People'](https://www.youtube.com/watch?v=ZDwDSuFnf2c)
+- [Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
+- [jimmy Cliff - Wonderful World Beautiful People'](https://www.youtube.com/watch?v=ZDwDSuFnf2c)
 
 
 ### Bob Marley
