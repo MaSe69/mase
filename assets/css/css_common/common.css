@@ -1,0 +1,156 @@
+:root {
+  --margin_xs: 8px!important;
+  --margin_s: 16px!important;
+  --margin_m: 32px!important;
+  --margin_l: 64px!important;
+  --margin_l_neg: -60px!important;
+}
+
+* {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+
+}
+
+body {
+  font-size: 18px;
+  line-height: 20px;
+  line-height: 30px;
+  color: black;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+ul {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: black;
+  padding-left: 64px;
+}
+
+li {
+  color: black;
+  list-style-type: disc;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+
+h1 {
+  font-size: 34px;
+  font-weight: 800;
+  letter-spacing: 4px;
+  padding: 100px 0px  20px  0px;
+  color: black;
+
+}
+h2 {
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  padding: 60px 0px 30px  0px;
+
+}
+h3 {
+  font-size: 28px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  padding: 50px 0px 10px  0px;
+
+}
+h4 {
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: px;
+  padding: 20px 0px  10px  0px;
+}
+
+img {
+  /* Decisive to keep the picture in the flexbox! */
+  max-width: 100%;
+  padding: 5px 0px 0px  0px;
+}
+
+strong {
+  color: var(--blue90);
+  font-weight: 900;
+}
+
+
+a, a:visited  {
+  color: var(--blue70);
+  color: var(--blue50);
+  text-decoration: underline;
+}
+a:hover, a:active {
+  color: var(--green70);
+  text-decoration: underline;
+}
+
+  /* blockquote {
+    background-color: #ebebf3;
+    page-break-inside: auto;
+    page-break-inside: inherit ;
+    width: 90%;
+    margin: 20px auto 20px 60px;
+    margin: 5px auto 5px 60px;
+    padding: 1.2em 30px 20px 40px;
+    padding: 5px 30px 5px 40px;
+    font-size: 18px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-left: 8px solid var(--blue10);
+} */
+
+
+blockquote {
+    background-color: #ebebf3;
+    page-break-inside: auto;
+    page-break-inside: inherit ;
+    width: 90%;
+    margin: 5px auto 5px 60px;
+    padding: 10px 30px 10px 40px;
+    font-size: 16px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-left: 8px solid var(--blue10);
+}
+
+
+/*  Table */
+table {
+  width: 120%;
+  border: 2px solid var(--blue80); 
+  padding:10px;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 28px;
+}
+
+/*  Table Header */
+th {
+  height: 56px;
+  border: 2px solid var(--blue90); 
+  padding:10px;
+  background-color: var(--blue50);
+  text-align: center;
+  color: var(--blue10);
+}
+
+/*  Table Body */
+td {
+  height: 36px;
+  color: var(--blue90);
+  border: 1px solid  var(--blue80); 
+  padding:5px  20px 5px 20px;
+  text-align: left; 
+  /* text-align: right;  */
+}

@@ -1,0 +1,37 @@
+.header_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_left {
+  display: flex;
+  text-align: justify;
+  width: 600px;
+  justify-content: space-between;
+}
+.header_leftleft {
+  width: 200px;
+  height: 50px;
+  text-align: justify;
+}
+
+.header_right {
+  flex-basis: 1 1 200px;
+  /* Parent: login_container */
+  flex: 1;
+  text-align: right;
+}
+
+a.header, a.header:visited  {
+  text-decoration: none;
+  color: grey;
+  font-size: 18px;
+}
+
+a.header:hover, a.header:active {
+  color: var(--blue90);
+  color: grey;
+  text-decoration: none;
+  text-decoration: underline;
+  font-size: 18px;
+}

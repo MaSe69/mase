@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149872410-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-149872410-1');
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="icon" type="image/png" href="{{ site.baseUrl }}../assets/images/img_layout/MaSe_Logo_C_2.png"
+        sizes="32x32">
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" href="">
+    <link href="{{ site.baseUrl }}../assets/css/css_common/common.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseUrl }}../assets/css/css_common/colors.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseUrl }}../assets/css/css_common/holygrail.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseUrl }}../assets/css/20_header.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseUrl }}../assets/css/70_footer.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body class="HolyGrail">
+
+
+    <main class="HolyGrail_header">
+        <div class="column_center">
+            {% include 20_topic/20_header.html %}
+        </div>
+        <div class="column_left"></div>
+        <div class="column_right"></div>
+    </main>
+
+    <main class="HolyGrail_middle">
+        <div class="column_center">
+            {% include 20_topic/50_middle.html %}
+        </div>
+        <div class="column_left"></div>
+        <div class="column_right"></div>
+    </main>
+
+    <main class="HolyGrail_footer">
+        <div class="column_center">
+            {% include 01_landing/70_footer.html %}
+        </div>
+        <div class="column_left"></div>
+        <div class="column_right"></div>
+    </main>
+
+    <main class="HolyGrail_final">
+        <div class="column_center">
+            {% include 01_landing/90_final.html %}
+        </div>
+        <div class="column_left"></div>
+        <div class="column_right"></div>
+    </main>
+
+</body>
+
+</html>
