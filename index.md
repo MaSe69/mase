@@ -6,7 +6,7 @@ permalink: /index
 
 :us: Welcome to [my](aboutme) non-commercial web page
 
-In 2024, I focussed on 2 topics:
+In 2024, I focus on 2 topics:
 - How to become a singer-songwriter?
 - The 16th century and some history around it.
 
