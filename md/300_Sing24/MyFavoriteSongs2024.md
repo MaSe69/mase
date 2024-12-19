@@ -5,29 +5,59 @@ permalink: /my_favorite_chart_songs_2024
 ---
 
 
+### Shirin David  - bauch beine po
 
-# Kenji Girac - Si Seulement - 10m (Frankreich)
-# Shirin David  - bauch beine po - 59m
-# Linkin Park - The Emptiness Machine - 55m
-# Shaboozey - A Bar Song (Tipsy) - 44m
-# Berq - ROTE FLAGGEN - 34 m
-# Gigi Perez - Sailor Song - 19m
-# AYLIVA - In Liebe
+Spotify Hits Total bis Dezember 2024: 59m
+
+<a href="https://music.youtube.com/watch?v=2kpgGbInVE4" target="_blank" rel="noopener noreferrer">
+  Shirin David  - bauch beine po
+</a>
+
+### Linkin Park - The Emptiness Machine
+
+Spotify Hits Total bis Dezember 2024 - 55m
+
+<a href="https://music.youtube.com/watch?v=KBV_zpMm_0Q" target="_blank" rel="noopener noreferrer">
+  Linkin Park: The Emptiness Machine
+</a>
+
+### Shaboozey - A Bar Song (Tipsy)
+
+Spotify Hits Total bis Dezember 2024: 44m
+
+<a href="https://music.youtube.com/watch?v=nZjTtuNR3Og" target="_blank" rel="noopener noreferrer">
+  Shaboozey - A Bar Song (Tipsy)
+</a>
+
+### Berq - ROTE FLAGGEN 
+
+Spotify Hits Total bis Dezember 2024: 34m
+
+<a href="https://music.youtube.com/watch?v=EJJTNOVeGTM" target="_blank" rel="noopener noreferrer">
+  Berq - ROTE FLAGGEN 
+</a>
+
+### Gigi Perez - Sailor Song 
+
+Spotify Hits Total bis Dezember 2024: 19m
+
+<a href="https://music.youtube.com/watch?v=zDKG9LhxjFQ" target="_blank" rel="noopener noreferrer">
+  Gigi Perez - Sailor Song 
+</a>
 
 
-[Linkin Park - The Emptiness Machine](https://music.youtube.com/watch?v=KBV_zpMm_0Q)
-[Linkin Park - The Emptiness Machine](https://www.youtube.com/watch?v=SRXH9AbT280)
+### AYLIVA - Lilien
 
-https://www.youtube.com/watch?v=SRXH9AbT280
+<a href="https://music.youtube.com/watch?v=K9eao46lzU4" target="_blank" rel="noopener noreferrer">
+   AYLIVA - Lilien
+</a>
 
 
+### Kenji Girac - Si Seulement
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/watch?v=SRXH9AbT280" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+<a href="https://music.youtube.com/watch?v=2alV4TKkiAA" target="_blank" rel="noopener noreferrer">
+  Kenji Girac - Si Seulement
+</a>
+
+Spotify Hits Total bis Dezember 2024 in Frankreich: 10m
+
