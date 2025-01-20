@@ -10,11 +10,7 @@ permalink: /index
 
 ## Singer-Songwriter
 
-
-<br>
-
-<div class="slogan_right">
-</div>
+Bevor man neue Songs schreibt, muss man erst einmal wissen: Welche gibt es denn bereits?
 
 [Meine Auswahl von Chart-Songs 2024](my_favorite_chart_songs_2024)
 
