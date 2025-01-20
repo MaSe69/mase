@@ -1,11 +1,28 @@
 ---
 layout: 10_topic
-title: Sing24
-permalink: /singer_songwriter
+title: MaSe_Covers
+permalink: /myCovers2025
 ---
 
-# Overview
+## Mit akustischer Gitarre
 
-- Songs
-- Voice
+- House of the Rising Sun
+- Halleluja
+- Wild world
+- Nobody knows you
+
+
+# Mit E-Gitarre
+
+- Passenger
+- Californication
+- Dreamer
+
+
+# Mit E-Bass
+
+- Californication
+- No roots
+- Shape of you
+
 

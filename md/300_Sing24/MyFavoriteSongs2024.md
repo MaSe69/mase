@@ -5,6 +5,9 @@ permalink: /my_favorite_chart_songs_2024
 ---
 
 
+
+<a href="https://www.youtube.com/watch?v=2kpgGbInVE4&list=PL9ziwNHpkZIQrmi7A0svLOdXm-GSOPz1z" target="_blank" rel="noopener noreferrer">Playlist [Youtube-Music]</a>
+
 ### Shirin David  - bauch beine po
 
 Spotify Hits Total bis Dezember 2024: 59m

@@ -82,9 +82,14 @@ strong {
 }
 
 
-a, a:visited  {
+/* a, a:visited  {
   color: var(--blue70);
   color: var(--blue50);
+  text-decoration: underline;
+}*/
+a, a:visited  {
+  color: black;
+  color: black;
   text-decoration: underline;
 }
 a:hover, a:active {
@@ -104,7 +109,6 @@ a:hover, a:active {
     font-size: 18px;
     font-style: normal;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-left: 8px solid var(--blue10);
 } */
 

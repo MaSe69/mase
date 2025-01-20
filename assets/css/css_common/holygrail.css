@@ -46,8 +46,9 @@
 .HolyGrail_footer {
   flex: 0 0 100px;
   display: flex;
-  background: linear-gradient(180deg, var(--blue60), var(--blue100));
-  color: whitesmoke;
+  /* background: linear-gradient(180deg, var(--blue60), var(--blue100));*/
+  background-color: red;
+   background: linear-gradient(180deg, var(--grey20), var(--grey80));
   border-top: 2px solid rgb(196, 209, 231);
 }
 
