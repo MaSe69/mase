@@ -17,6 +17,7 @@
   box-shadow: 0px 5px 15px 0px rgba(40, 62, 90, 0.93);
   border-radius: 5px;
   background-color: var(--blue20);
+  background-color: black;
 }
 
 .slogan_right {
