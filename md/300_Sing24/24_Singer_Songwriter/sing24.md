@@ -12,14 +12,14 @@ permalink: /myCovers2025
 - Nobody knows you
 
 
-# Mit E-Gitarre
+## Mit E-Gitarre
 
 - Passenger
 - Californication
 - Dreamer
 
 
-# Mit E-Bass
+## Mit E-Bass
 
 - Californication
 - No roots

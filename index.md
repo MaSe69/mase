@@ -5,7 +5,7 @@ permalink: /index
 ---
 
 
-:de: Willkommen auf der Webseite über meine Hobbies. 
+Willkommen auf der Webseite über meine Hobbies. 
 
 
 ## Singer-Songwriter
